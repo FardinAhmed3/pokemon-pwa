@@ -20,6 +20,47 @@
   text-transform: capitalize;
 }
 
+.type-filter {
+  display: inline-block;
+  padding: 0.5rem 1rem;
+  border-radius: 9999px;
+  color: white;
+  font-size: 0.875rem;
+  font-weight: 600;
+  text-transform: capitalize;
+  cursor: pointer;
+  transition: all 0.2s;
+  opacity: 0.7;
+  border: 2px solid transparent;
+}
+
+.type-filter.active {
+  opacity: 1;
+  border: 2px solid #fff;
+  box-shadow: 0 0 8px rgba(0, 0, 0, 0.3);
+  transform: scale(1.05);
+}
+
+.pokemon-item {
+  padding: 8px;
+  border-radius: 8px;
+  transition: all 0.2s;
+  cursor: pointer;
+}
+
+.pokemon-item:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.type-section {
+  transition: all 0.3s ease;
+}
+
+.type-section.hidden-section {
+  display: none;
+}
+
 .stat-bar {
   height: 8px;
   border-radius: 4px;

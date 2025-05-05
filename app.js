@@ -11,9 +11,12 @@ const pokemonWeight = document.getElementById('pokemonWeight');
 const pokemonExp = document.getElementById('pokemonExp');
 const pokemonAbilities = document.getElementById('pokemonAbilities');
 const pokemonStats = document.getElementById('pokemonStats');
+const typeFilters = document.getElementById('typeFilters');
+const pokemonLists = document.getElementById('pokemonLists');
 
 const API_BASE_URL = 'https://pokeapi.co/api/v2/pokemon/';
 
+// All pokemon types and their colors
 const typeColors = {
   normal: '#A8A878',
   fire: '#F08030',
@@ -34,6 +37,197 @@ const typeColors = {
   steel: '#B8B8D0',
   fairy: '#EE99AC'
 };
+
+// Track active filters
+let activeFilters = new Set();
+let pokemonsByType = {};
+let allPokemon = [];
+
+
+window.addEventListener('load', async () => {
+  if ('serviceWorker' in navigator) {
+    navigator.serviceWorker.register('./sw.js');
+  }
+  
+  searchInput.focus();
+  
+  createTypeFilters();
+  
+  // Load Pokemon data
+  await loadPokemonData();
+  
+  // Organize Pokemon by type and display them
+  organizePokemonByType();
+  displayPokemonByType();
+});
+
+
+function createTypeFilters() {
+  Object.entries(typeColors).forEach(([type, color]) => {
+    const typeFilter = document.createElement('div');
+    typeFilter.classList.add('type-filter');
+    typeFilter.dataset.type = type;
+    typeFilter.textContent = type;
+    typeFilter.style.backgroundColor = color;
+    
+    typeFilter.addEventListener('click', () => toggleTypeFilter(type));
+    
+    typeFilters.appendChild(typeFilter);
+  });
+}
+
+// Toggle type filter selection
+function toggleTypeFilter(type) {
+  const filterElement = document.querySelector(`.type-filter[data-type="${type}"]`);
+  
+  if (activeFilters.has(type)) {
+    activeFilters.delete(type);
+    filterElement.classList.remove('active');
+  } else {
+    activeFilters.add(type);
+    filterElement.classList.add('active');
+  }
+  
+  updatePokemonListVisibility();
+}
+
+function updatePokemonListVisibility() {
+  const typeSections = document.querySelectorAll('.type-section');
+  
+  if (activeFilters.size === 0) {
+    typeSections.forEach(section => {
+      section.classList.remove('hidden-section');
+    });
+  } else {
+    typeSections.forEach(section => {
+      const sectionType = section.dataset.type;
+      if (activeFilters.has(sectionType)) {
+        section.classList.remove('hidden-section');
+      } else {
+        section.classList.add('hidden-section');
+      }
+    });
+  }
+}
+
+// Load Pokemon data from the JSON file
+async function loadPokemonData() {
+  try {
+    showLoading();
+    const response = await fetch('pokemon.json');
+    if (!response.ok) {
+      throw new Error('Failed to load Pokemon data');
+    }
+    allPokemon = await response.json();
+    hideLoading();
+  } catch (error) {
+    hideLoading();
+    showError('Failed to load Pokemon data. Please refresh the page.');
+    console.error(error);
+  }
+}
+
+// Organize Pokemon by type
+function organizePokemonByType() {
+  Object.keys(typeColors).forEach(type => {
+    pokemonsByType[type] = [];
+  });
+  
+  allPokemon.forEach(pokemon => {
+    const type1 = pokemon["Type 1"].toLowerCase();
+    const type2 = pokemon["Type 2"].toLowerCase();
+    
+    if (type1 && pokemonsByType[type1]) {
+      pokemonsByType[type1].push(pokemon);
+    }
+    
+    if (type2 && pokemonsByType[type2]) {
+      pokemonsByType[type2].push(pokemon);
+    }
+  });
+}
+
+function displayPokemonByType() {
+  pokemonLists.innerHTML = '';
+  
+  Object.entries(pokemonsByType).forEach(([type, pokemons]) => {
+    if (pokemons.length === 0) return;
+    
+    const typeSection = document.createElement('div');
+    typeSection.classList.add('type-section', 'bg-white', 'p-4', 'rounded-lg', 'shadow');
+    typeSection.dataset.type = type;
+    
+    // Create type header
+    const typeHeader = document.createElement('div');
+    typeHeader.classList.add('mb-4', 'pb-2', 'border-b', 'border-gray-200');
+    
+    const typeTitle = document.createElement('h3');
+    typeTitle.classList.add('text-lg', 'font-bold', 'capitalize', 'flex', 'items-center');
+    
+    const typeBadge = document.createElement('span');
+    typeBadge.classList.add('type-badge', 'mr-2');
+    typeBadge.textContent = type;
+    typeBadge.style.backgroundColor = typeColors[type];
+    
+    typeTitle.appendChild(typeBadge);
+    typeTitle.appendChild(document.createTextNode(`${type} (${pokemons.length})`));
+    typeHeader.appendChild(typeTitle);
+    typeSection.appendChild(typeHeader);
+    
+
+    const pokemonContainer = document.createElement('div');
+    pokemonContainer.classList.add('pokemon-container', 'max-h-64', 'overflow-y-auto', 'pr-2');
+    
+    pokemons.forEach(pokemon => {
+      const pokemonItem = document.createElement('div');
+      pokemonItem.classList.add('pokemon-item', 'flex', 'items-center', 'mb-2', 'bg-gray-50', 'rounded');
+      pokemonItem.dataset.name = pokemon.Name.toLowerCase();
+      
+
+      pokemonItem.addEventListener('click', () => {
+        searchInput.value = pokemon.Name.toLowerCase();
+        searchPokemon();
+      });
+      
+      const nameElement = document.createElement('span');
+      nameElement.classList.add('capitalize', 'ml-2', 'flex-grow');
+      nameElement.textContent = pokemon.Name;
+      
+      pokemonItem.appendChild(nameElement);
+      
+
+      if (pokemon.Form) {
+        const formElement = document.createElement('span');
+        formElement.classList.add('text-xs', 'text-gray-500', 'italic', 'ml-2');
+        formElement.textContent = pokemon.Form;
+        pokemonItem.appendChild(formElement);
+      }
+      
+      const typeWrapper = document.createElement('div');
+      typeWrapper.classList.add('flex', 'ml-auto', 'mr-2', 'space-x-1');
+      
+      const type1Badge = document.createElement('span');
+      type1Badge.classList.add('type-badge');
+      type1Badge.textContent = pokemon["Type 1"].toLowerCase();
+      type1Badge.style.backgroundColor = typeColors[pokemon["Type 1"].toLowerCase()];
+      typeWrapper.appendChild(type1Badge);
+      
+      if (pokemon["Type 2"]) {
+        const type2Badge = document.createElement('span');
+        type2Badge.classList.add('type-badge');
+        type2Badge.textContent = pokemon["Type 2"].toLowerCase();
+        type2Badge.style.backgroundColor = typeColors[pokemon["Type 2"].toLowerCase()];
+        typeWrapper.appendChild(type2Badge);
+      }
+      
+      pokemonItem.appendChild(typeWrapper);
+      pokemonContainer.appendChild(pokemonItem);
+    });
+    
+    typeSection.appendChild(pokemonContainer);
+    pokemonLists.appendChild(typeSection);
+  });
+}
 
 searchButton.addEventListener('click', searchPokemon);
 searchInput.addEventListener('keypress', (event) => {
@@ -131,6 +325,7 @@ async function cacheData(nameOrId, data) {
     const response = new Response(JSON.stringify(data));
     await cache.put(`${API_BASE_URL}${nameOrId}`, response);
   } catch (error) {
+    console.error('Caching error:', error);
   }
 }
 
@@ -224,12 +419,4 @@ function displayStats(stats) {
     
     pokemonStats.appendChild(statContainer);
   });
-}
-
-window.addEventListener('load', () => {
-  if ('serviceWorker' in navigator) {
-    navigator.serviceWorker.register('./sw.js');
-  }
-  
-  searchInput.focus();
-}); 
+} 
