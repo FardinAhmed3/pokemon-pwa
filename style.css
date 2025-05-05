@@ -1,0 +1,67 @@
+@keyframes pulse {
+  0% {
+    transform: scale(1);
+  }
+  50% {
+    transform: scale(1.05);
+  }
+  100% {
+    transform: scale(1);
+  }
+}
+
+.type-badge {
+  display: inline-block;
+  padding: 0.25rem 0.75rem;
+  border-radius: 9999px;
+  color: white;
+  font-size: 0.75rem;
+  font-weight: 600;
+  text-transform: capitalize;
+}
+
+.stat-bar {
+  height: 8px;
+  border-radius: 4px;
+  overflow: hidden;
+}
+
+.stat-fill {
+  height: 100%;
+  border-radius: 4px;
+  transition: width 1s ease-out;
+}
+
+.pokemon-appear {
+  animation: pulse 0.5s ease-in-out;
+}
+
+@media (prefers-color-scheme: dark) {
+  .bg-gray-100 {
+    background-color: #1f2937;
+  }
+  
+  .text-gray-600 {
+    color: #9ca3af;
+  }
+  
+  .bg-white {
+    background-color: #374151;
+  }
+  
+  .text-gray-800 {
+    color: #f3f4f6;
+  }
+  
+  .bg-gray-50 {
+    background-color: #1f2937;
+  }
+  
+  .text-gray-500 {
+    color: #d1d5db;
+  }
+  
+  .text-gray-700 {
+    color: #e5e7eb;
+  }
+} 
