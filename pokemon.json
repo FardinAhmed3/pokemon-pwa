@@ -1,4862 +1,7292 @@
 [
   {
     "Name": "Bulbasaur",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Grass",
+    "Type 2": "Poison"
   },
   {
     "Name": "Ivysaur",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Grass",
+    "Type 2": "Poison"
   },
   {
     "Name": "Venusaur",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Grass",
+    "Type 2": "Poison"
   },
   {
     "Name": "Venusaur",
-    "Form": "Mega Venusaur"
+    "Form": "Mega Venusaur",
+    "Type 1": "Grass",
+    "Type 2": "Poison"
   },
   {
     "Name": "Charmander",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Fire",
+    "Type 2": ""
   },
   {
     "Name": "Charmeleon",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Fire",
+    "Type 2": ""
   },
   {
     "Name": "Charizard",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Fire",
+    "Type 2": "Flying"
   },
   {
     "Name": "Charizard",
-    "Form": "Mega Charizard X"
+    "Form": "Mega Charizard X",
+    "Type 1": "Fire",
+    "Type 2": "Dragon"
   },
   {
     "Name": "Charizard",
-    "Form": "Mega Charizard Y"
+    "Form": "Mega Charizard Y",
+    "Type 1": "Fire",
+    "Type 2": "Flying"
   },
   {
     "Name": "Squirtle",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Water",
+    "Type 2": ""
   },
   {
     "Name": "Wartortle",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Water",
+    "Type 2": ""
   },
   {
     "Name": "Blastoise",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Water",
+    "Type 2": ""
   },
   {
     "Name": "Blastoise",
-    "Form": "Mega Blastoise"
+    "Form": "Mega Blastoise",
+    "Type 1": "Water",
+    "Type 2": ""
   },
   {
     "Name": "Caterpie",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Bug",
+    "Type 2": ""
   },
   {
     "Name": "Metapod",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Bug",
+    "Type 2": ""
   },
   {
     "Name": "Butterfree",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Bug",
+    "Type 2": "Flying"
   },
   {
     "Name": "Weedle",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Bug",
+    "Type 2": "Poison"
   },
   {
     "Name": "Kakuna",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Bug",
+    "Type 2": "Poison"
   },
   {
     "Name": "Beedrill",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Bug",
+    "Type 2": "Poison"
   },
   {
     "Name": "Beedrill",
-    "Form": "Mega Beedrill"
+    "Form": "Mega Beedrill",
+    "Type 1": "Bug",
+    "Type 2": "Poison"
   },
   {
     "Name": "Pidgey",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Normal",
+    "Type 2": "Flying"
   },
   {
     "Name": "Pidgeotto",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Normal",
+    "Type 2": "Flying"
   },
   {
     "Name": "Pidgeot",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Normal",
+    "Type 2": "Flying"
   },
   {
     "Name": "Pidgeot",
-    "Form": "Mega Pidgeot"
+    "Form": "Mega Pidgeot",
+    "Type 1": "Normal",
+    "Type 2": "Flying"
   },
   {
     "Name": "Rattata",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Normal",
+    "Type 2": ""
   },
   {
     "Name": "Rattata",
-    "Form": "Alolan Rattata"
+    "Form": "Alolan Rattata",
+    "Type 1": "Dark",
+    "Type 2": "Normal"
   },
   {
     "Name": "Raticate",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Normal",
+    "Type 2": ""
   },
   {
     "Name": "Raticate",
-    "Form": "Alolan Raticate"
+    "Form": "Alolan Raticate",
+    "Type 1": "Dark",
+    "Type 2": "Normal"
   },
   {
     "Name": "Spearow",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Normal",
+    "Type 2": "Flying"
   },
   {
     "Name": "Fearow",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Normal",
+    "Type 2": "Flying"
   },
   {
     "Name": "Ekans",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Poison",
+    "Type 2": ""
   },
   {
     "Name": "Arbok",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Poison",
+    "Type 2": ""
   },
   {
     "Name": "Pikachu",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Electric",
+    "Type 2": ""
   },
   {
     "Name": "Pikachu",
-    "Form": "Partner Pikachu"
+    "Form": "Partner Pikachu",
+    "Type 1": "Electric",
+    "Type 2": ""
   },
   {
     "Name": "Raichu",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Electric",
+    "Type 2": ""
   },
   {
     "Name": "Raichu",
-    "Form": "Alolan Raichu"
+    "Form": "Alolan Raichu",
+    "Type 1": "Electric",
+    "Type 2": "Psychic"
   },
   {
     "Name": "Sandshrew",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Ground",
+    "Type 2": ""
   },
   {
     "Name": "Sandshrew",
-    "Form": "Alolan Sandshrew"
+    "Form": "Alolan Sandshrew",
+    "Type 1": "Ice",
+    "Type 2": "Steel"
   },
   {
     "Name": "Sandslash",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Ground",
+    "Type 2": ""
   },
   {
     "Name": "Sandslash",
-    "Form": "Alolan Sandslash"
+    "Form": "Alolan Sandslash",
+    "Type 1": "Ice",
+    "Type 2": "Steel"
   },
   {
     "Name": "Nidoran♀",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Poison",
+    "Type 2": ""
   },
   {
     "Name": "Nidorina",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Poison",
+    "Type 2": ""
   },
   {
     "Name": "Nidoqueen",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Poison",
+    "Type 2": "Ground"
   },
   {
     "Name": "Nidoran♂",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Poison",
+    "Type 2": ""
   },
   {
     "Name": "Nidorino",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Poison",
+    "Type 2": ""
   },
   {
     "Name": "Nidoking",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Poison",
+    "Type 2": "Ground"
   },
   {
     "Name": "Clefairy",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Fairy",
+    "Type 2": ""
   },
   {
     "Name": "Clefable",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Fairy",
+    "Type 2": ""
   },
   {
     "Name": "Vulpix",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Fire",
+    "Type 2": ""
   },
   {
     "Name": "Vulpix",
-    "Form": "Alolan Vulpix"
+    "Form": "Alolan Vulpix",
+    "Type 1": "Ice",
+    "Type 2": ""
   },
   {
     "Name": "Ninetales",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Fire",
+    "Type 2": ""
   },
   {
     "Name": "Ninetales",
-    "Form": "Alolan Ninetales"
+    "Form": "Alolan Ninetales",
+    "Type 1": "Ice",
+    "Type 2": "Fairy"
   },
   {
     "Name": "Jigglypuff",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Normal",
+    "Type 2": "Fairy"
   },
   {
     "Name": "Wigglytuff",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Normal",
+    "Type 2": "Fairy"
   },
   {
     "Name": "Zubat",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Poison",
+    "Type 2": "Flying"
   },
   {
     "Name": "Golbat",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Poison",
+    "Type 2": "Flying"
   },
   {
     "Name": "Oddish",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Grass",
+    "Type 2": "Poison"
   },
   {
     "Name": "Gloom",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Grass",
+    "Type 2": "Poison"
   },
   {
     "Name": "Vileplume",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Grass",
+    "Type 2": "Poison"
   },
   {
     "Name": "Paras",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Bug",
+    "Type 2": "Grass"
   },
   {
     "Name": "Parasect",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Bug",
+    "Type 2": "Grass"
   },
   {
     "Name": "Venonat",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Bug",
+    "Type 2": "Poison"
   },
   {
     "Name": "Venomoth",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Bug",
+    "Type 2": "Poison"
   },
   {
     "Name": "Diglett",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Ground",
+    "Type 2": ""
   },
   {
     "Name": "Diglett",
-    "Form": "Alolan Diglett"
+    "Form": "Alolan Diglett",
+    "Type 1": "Ground",
+    "Type 2": "Steel"
   },
   {
     "Name": "Dugtrio",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Ground",
+    "Type 2": ""
   },
   {
     "Name": "Dugtrio",
-    "Form": "Alolan Dugtrio"
+    "Form": "Alolan Dugtrio",
+    "Type 1": "Ground",
+    "Type 2": "Steel"
   },
   {
     "Name": "Meowth",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Normal",
+    "Type 2": ""
   },
   {
     "Name": "Meowth",
-    "Form": "Alolan Meowth"
+    "Form": "Alolan Meowth",
+    "Type 1": "Dark",
+    "Type 2": ""
   },
   {
     "Name": "Meowth",
-    "Form": "Galarian Meowth"
+    "Form": "Galarian Meowth",
+    "Type 1": "Steel",
+    "Type 2": ""
   },
   {
     "Name": "Persian",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Normal",
+    "Type 2": ""
   },
   {
     "Name": "Persian",
-    "Form": "Alolan Persian"
+    "Form": "Alolan Persian",
+    "Type 1": "Dark",
+    "Type 2": ""
   },
   {
     "Name": "Psyduck",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Water",
+    "Type 2": ""
   },
   {
     "Name": "Golduck",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Water",
+    "Type 2": ""
   },
   {
     "Name": "Mankey",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Fighting",
+    "Type 2": ""
   },
   {
     "Name": "Primeape",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Fighting",
+    "Type 2": ""
   },
   {
     "Name": "Growlithe",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Fire",
+    "Type 2": ""
   },
   {
     "Name": "Growlithe",
-    "Form": "Hisuian Growlithe"
+    "Form": "Hisuian Growlithe",
+    "Type 1": "Fire",
+    "Type 2": "Rock"
   },
   {
     "Name": "Arcanine",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Fire",
+    "Type 2": ""
   },
   {
     "Name": "Arcanine",
-    "Form": "Hisuian Arcanine"
+    "Form": "Hisuian Arcanine",
+    "Type 1": "Fire",
+    "Type 2": "Rock"
   },
   {
     "Name": "Poliwag",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Water",
+    "Type 2": ""
   },
   {
     "Name": "Poliwhirl",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Water",
+    "Type 2": ""
   },
   {
     "Name": "Poliwrath",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Water",
+    "Type 2": "Fighting"
   },
   {
     "Name": "Abra",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Psychic",
+    "Type 2": ""
   },
   {
     "Name": "Kadabra",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Psychic",
+    "Type 2": ""
   },
   {
     "Name": "Alakazam",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Psychic",
+    "Type 2": ""
   },
   {
     "Name": "Alakazam",
-    "Form": "Mega Alakazam"
+    "Form": "Mega Alakazam",
+    "Type 1": "Psychic",
+    "Type 2": ""
   },
   {
     "Name": "Machop",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Fighting",
+    "Type 2": ""
   },
   {
     "Name": "Machoke",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Fighting",
+    "Type 2": ""
   },
   {
     "Name": "Machamp",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Fighting",
+    "Type 2": ""
   },
   {
     "Name": "Bellsprout",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Grass",
+    "Type 2": "Poison"
   },
   {
     "Name": "Weepinbell",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Grass",
+    "Type 2": "Poison"
   },
   {
     "Name": "Victreebel",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Grass",
+    "Type 2": "Poison"
   },
   {
     "Name": "Tentacool",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Water",
+    "Type 2": "Poison"
   },
   {
     "Name": "Tentacruel",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Water",
+    "Type 2": "Poison"
   },
   {
     "Name": "Geodude",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Rock",
+    "Type 2": "Ground"
   },
   {
     "Name": "Geodude",
-    "Form": "Alolan Geodude"
+    "Form": "Alolan Geodude",
+    "Type 1": "Rock",
+    "Type 2": "Electric"
   },
   {
     "Name": "Graveler",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Rock",
+    "Type 2": "Ground"
   },
   {
     "Name": "Graveler",
-    "Form": "Alolan Graveler"
+    "Form": "Alolan Graveler",
+    "Type 1": "Rock",
+    "Type 2": "Electric"
   },
   {
     "Name": "Golem",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Rock",
+    "Type 2": "Ground"
   },
   {
     "Name": "Golem",
-    "Form": "Alolan Golem"
+    "Form": "Alolan Golem",
+    "Type 1": "Rock",
+    "Type 2": "Electric"
   },
   {
     "Name": "Ponyta",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Fire",
+    "Type 2": ""
   },
   {
     "Name": "Ponyta",
-    "Form": "Galarian Ponyta"
+    "Form": "Galarian Ponyta",
+    "Type 1": "Psychic",
+    "Type 2": ""
   },
   {
     "Name": "Rapidash",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Fire",
+    "Type 2": ""
   },
   {
     "Name": "Rapidash",
-    "Form": "Galarian Rapidash"
+    "Form": "Galarian Rapidash",
+    "Type 1": "Psychic",
+    "Type 2": "Fairy"
   },
   {
     "Name": "Slowpoke",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Water",
+    "Type 2": "Psychic"
   },
   {
     "Name": "Slowpoke",
-    "Form": "Galarian Slowpoke"
+    "Form": "Galarian Slowpoke",
+    "Type 1": "Psychic",
+    "Type 2": ""
   },
   {
     "Name": "Slowbro",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Water",
+    "Type 2": "Psychic"
   },
   {
     "Name": "Slowbro",
-    "Form": "Mega Slowbro"
+    "Form": "Mega Slowbro",
+    "Type 1": "Water",
+    "Type 2": "Psychic"
   },
   {
     "Name": "Slowbro",
-    "Form": "Galarian Slowbro"
+    "Form": "Galarian Slowbro",
+    "Type 1": "Poison",
+    "Type 2": "Psychic"
   },
   {
     "Name": "Magnemite",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Electric",
+    "Type 2": "Steel"
   },
   {
     "Name": "Magneton",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Electric",
+    "Type 2": "Steel"
   },
   {
     "Name": "Farfetch'd",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Normal",
+    "Type 2": "Flying"
   },
   {
     "Name": "Farfetch'd",
-    "Form": "Galarian Farfetch'd"
+    "Form": "Galarian Farfetch'd",
+    "Type 1": "Fighting",
+    "Type 2": ""
   },
   {
     "Name": "Doduo",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Normal",
+    "Type 2": "Flying"
   },
   {
     "Name": "Dodrio",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Normal",
+    "Type 2": "Flying"
   },
   {
     "Name": "Seel",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Water",
+    "Type 2": ""
   },
   {
     "Name": "Dewgong",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Water",
+    "Type 2": "Ice"
   },
   {
     "Name": "Grimer",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Poison",
+    "Type 2": ""
   },
   {
     "Name": "Grimer",
-    "Form": "Alolan Grimer"
+    "Form": "Alolan Grimer",
+    "Type 1": "Poison",
+    "Type 2": "Dark"
   },
   {
     "Name": "Muk",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Poison",
+    "Type 2": ""
   },
   {
     "Name": "Muk",
-    "Form": "Alolan Muk"
+    "Form": "Alolan Muk",
+    "Type 1": "Poison",
+    "Type 2": "Dark"
   },
   {
     "Name": "Shellder",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Water",
+    "Type 2": ""
   },
   {
     "Name": "Cloyster",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Water",
+    "Type 2": "Ice"
   },
   {
     "Name": "Gastly",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Ghost",
+    "Type 2": "Poison"
   },
   {
     "Name": "Haunter",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Ghost",
+    "Type 2": "Poison"
   },
   {
     "Name": "Gengar",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Ghost",
+    "Type 2": "Poison"
   },
   {
     "Name": "Gengar",
-    "Form": "Mega Gengar"
+    "Form": "Mega Gengar",
+    "Type 1": "Ghost",
+    "Type 2": "Poison"
   },
   {
     "Name": "Onix",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Rock",
+    "Type 2": "Ground"
   },
   {
     "Name": "Drowzee",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Psychic",
+    "Type 2": ""
   },
   {
     "Name": "Hypno",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Psychic",
+    "Type 2": ""
   },
   {
     "Name": "Krabby",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Water",
+    "Type 2": ""
   },
   {
     "Name": "Kingler",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Water",
+    "Type 2": ""
   },
   {
     "Name": "Voltorb",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Electric",
+    "Type 2": ""
   },
   {
     "Name": "Voltorb",
-    "Form": "Hisuian Voltorb"
+    "Form": "Hisuian Voltorb",
+    "Type 1": "Electric",
+    "Type 2": "Grass"
   },
   {
     "Name": "Electrode",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Electric",
+    "Type 2": ""
   },
   {
     "Name": "Electrode",
-    "Form": "Hisuian Electrode"
+    "Form": "Hisuian Electrode",
+    "Type 1": "Electric",
+    "Type 2": "Grass"
   },
   {
     "Name": "Exeggcute",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Grass",
+    "Type 2": "Psychic"
   },
   {
     "Name": "Exeggutor",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Grass",
+    "Type 2": "Psychic"
   },
   {
     "Name": "Exeggutor",
-    "Form": "Alolan Exeggutor"
+    "Form": "Alolan Exeggutor",
+    "Type 1": "Grass",
+    "Type 2": "Dragon"
   },
   {
     "Name": "Cubone",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Ground",
+    "Type 2": ""
   },
   {
     "Name": "Marowak",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Ground",
+    "Type 2": ""
   },
   {
     "Name": "Marowak",
-    "Form": "Alolan Marowak"
+    "Form": "Alolan Marowak",
+    "Type 1": "Fire",
+    "Type 2": "Ghost"
   },
   {
     "Name": "Hitmonlee",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Fighting",
+    "Type 2": ""
   },
   {
     "Name": "Hitmonchan",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Fighting",
+    "Type 2": ""
   },
   {
     "Name": "Lickitung",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Normal",
+    "Type 2": ""
   },
   {
     "Name": "Koffing",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Poison",
+    "Type 2": ""
   },
   {
     "Name": "Weezing",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Poison",
+    "Type 2": ""
   },
   {
     "Name": "Weezing",
-    "Form": "Galarian Weezing"
+    "Form": "Galarian Weezing",
+    "Type 1": "Poison",
+    "Type 2": "Fairy"
   },
   {
     "Name": "Rhyhorn",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Ground",
+    "Type 2": "Rock"
   },
   {
     "Name": "Rhydon",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Ground",
+    "Type 2": "Rock"
   },
   {
     "Name": "Chansey",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Normal",
+    "Type 2": ""
   },
   {
     "Name": "Tangela",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Grass",
+    "Type 2": ""
   },
   {
     "Name": "Kangaskhan",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Normal",
+    "Type 2": ""
   },
   {
     "Name": "Kangaskhan",
-    "Form": "Mega Kangaskhan"
+    "Form": "Mega Kangaskhan",
+    "Type 1": "Normal",
+    "Type 2": ""
   },
   {
     "Name": "Horsea",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Water",
+    "Type 2": ""
   },
   {
     "Name": "Seadra",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Water",
+    "Type 2": ""
   },
   {
     "Name": "Goldeen",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Water",
+    "Type 2": ""
   },
   {
     "Name": "Seaking",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Water",
+    "Type 2": ""
   },
   {
     "Name": "Staryu",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Water",
+    "Type 2": ""
   },
   {
     "Name": "Starmie",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Water",
+    "Type 2": "Psychic"
   },
   {
     "Name": "Mr. Mime",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Psychic",
+    "Type 2": "Fairy"
   },
   {
     "Name": "Mr. Mime",
-    "Form": "Galarian Mr. Mime"
+    "Form": "Galarian Mr. Mime",
+    "Type 1": "Ice",
+    "Type 2": "Psychic"
   },
   {
     "Name": "Scyther",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Bug",
+    "Type 2": "Flying"
   },
   {
     "Name": "Jynx",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Ice",
+    "Type 2": "Psychic"
   },
   {
     "Name": "Electabuzz",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Electric",
+    "Type 2": ""
   },
   {
     "Name": "Magmar",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Fire",
+    "Type 2": ""
   },
   {
     "Name": "Pinsir",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Bug",
+    "Type 2": ""
   },
   {
     "Name": "Pinsir",
-    "Form": "Mega Pinsir"
+    "Form": "Mega Pinsir",
+    "Type 1": "Bug",
+    "Type 2": "Flying"
   },
   {
     "Name": "Tauros",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Normal",
+    "Type 2": ""
   },
   {
     "Name": "Tauros",
-    "Form": "Combat Breed"
+    "Form": "Combat Breed",
+    "Type 1": "Fighting",
+    "Type 2": ""
   },
   {
     "Name": "Tauros",
-    "Form": "Blaze Breed"
+    "Form": "Blaze Breed",
+    "Type 1": "Fighting",
+    "Type 2": "Fire"
   },
   {
     "Name": "Tauros",
-    "Form": "Aqua Breed"
+    "Form": "Aqua Breed",
+    "Type 1": "Fighting",
+    "Type 2": "Water"
   },
   {
     "Name": "Magikarp",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Water",
+    "Type 2": ""
   },
   {
     "Name": "Gyarados",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Water",
+    "Type 2": "Flying"
   },
   {
     "Name": "Gyarados",
-    "Form": "Mega Gyarados"
+    "Form": "Mega Gyarados",
+    "Type 1": "Water",
+    "Type 2": "Dark"
   },
   {
     "Name": "Lapras",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Water",
+    "Type 2": "Ice"
   },
   {
     "Name": "Ditto",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Normal",
+    "Type 2": ""
   },
   {
     "Name": "Eevee",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Normal",
+    "Type 2": ""
   },
   {
     "Name": "Eevee",
-    "Form": "Partner Eevee"
+    "Form": "Partner Eevee",
+    "Type 1": "Normal",
+    "Type 2": ""
   },
   {
     "Name": "Vaporeon",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Water",
+    "Type 2": ""
   },
   {
     "Name": "Jolteon",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Electric",
+    "Type 2": ""
   },
   {
     "Name": "Flareon",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Fire",
+    "Type 2": ""
   },
   {
     "Name": "Porygon",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Normal",
+    "Type 2": ""
   },
   {
     "Name": "Omanyte",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Rock",
+    "Type 2": "Water"
   },
   {
     "Name": "Omastar",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Rock",
+    "Type 2": "Water"
   },
   {
     "Name": "Kabuto",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Rock",
+    "Type 2": "Water"
   },
   {
     "Name": "Kabutops",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Rock",
+    "Type 2": "Water"
   },
   {
     "Name": "Aerodactyl",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Rock",
+    "Type 2": "Flying"
   },
   {
     "Name": "Aerodactyl",
-    "Form": "Mega Aerodactyl"
+    "Form": "Mega Aerodactyl",
+    "Type 1": "Rock",
+    "Type 2": "Flying"
   },
   {
     "Name": "Snorlax",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Normal",
+    "Type 2": ""
   },
   {
     "Name": "Articuno",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Ice",
+    "Type 2": "Flying"
   },
   {
     "Name": "Articuno",
-    "Form": "Galarian Articuno"
+    "Form": "Galarian Articuno",
+    "Type 1": "Psychic",
+    "Type 2": "Flying"
   },
   {
     "Name": "Zapdos",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Electric",
+    "Type 2": "Flying"
   },
   {
     "Name": "Zapdos",
-    "Form": "Galarian Zapdos"
+    "Form": "Galarian Zapdos",
+    "Type 1": "Fighting",
+    "Type 2": "Flying"
   },
   {
     "Name": "Moltres",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Fire",
+    "Type 2": "Flying"
   },
   {
     "Name": "Moltres",
-    "Form": "Galarian Moltres"
+    "Form": "Galarian Moltres",
+    "Type 1": "Dark",
+    "Type 2": "Flying"
   },
   {
     "Name": "Dratini",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Dragon",
+    "Type 2": ""
   },
   {
     "Name": "Dragonair",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Dragon",
+    "Type 2": ""
   },
   {
     "Name": "Dragonite",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Dragon",
+    "Type 2": "Flying"
   },
   {
     "Name": "Mewtwo",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Psychic",
+    "Type 2": ""
   },
   {
     "Name": "Mewtwo",
-    "Form": "Mega Mewtwo X"
+    "Form": "Mega Mewtwo X",
+    "Type 1": "Psychic",
+    "Type 2": "Fighting"
   },
   {
     "Name": "Mewtwo",
-    "Form": "Mega Mewtwo Y"
+    "Form": "Mega Mewtwo Y",
+    "Type 1": "Psychic",
+    "Type 2": ""
   },
   {
     "Name": "Mew",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Psychic",
+    "Type 2": ""
   },
   {
     "Name": "Chikorita",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Grass",
+    "Type 2": ""
   },
   {
     "Name": "Bayleef",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Grass",
+    "Type 2": ""
   },
   {
     "Name": "Meganium",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Grass",
+    "Type 2": ""
   },
   {
     "Name": "Cyndaquil",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Fire",
+    "Type 2": ""
   },
   {
     "Name": "Quilava",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Fire",
+    "Type 2": ""
   },
   {
     "Name": "Typhlosion",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Fire",
+    "Type 2": ""
   },
   {
     "Name": "Typhlosion",
-    "Form": "Hisuian Typhlosion"
+    "Form": "Hisuian Typhlosion",
+    "Type 1": "Fire",
+    "Type 2": "Ghost"
   },
   {
     "Name": "Totodile",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Water",
+    "Type 2": ""
   },
   {
     "Name": "Croconaw",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Water",
+    "Type 2": ""
   },
   {
     "Name": "Feraligatr",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Water",
+    "Type 2": ""
   },
   {
     "Name": "Sentret",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Normal",
+    "Type 2": ""
   },
   {
     "Name": "Furret",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Normal",
+    "Type 2": ""
   },
   {
     "Name": "Hoothoot",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Normal",
+    "Type 2": "Flying"
   },
   {
     "Name": "Noctowl",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Normal",
+    "Type 2": "Flying"
   },
   {
     "Name": "Ledyba",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Bug",
+    "Type 2": "Flying"
   },
   {
     "Name": "Ledian",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Bug",
+    "Type 2": "Flying"
   },
   {
     "Name": "Spinarak",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Bug",
+    "Type 2": "Poison"
   },
   {
     "Name": "Ariados",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Bug",
+    "Type 2": "Poison"
   },
   {
     "Name": "Crobat",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Poison",
+    "Type 2": "Flying"
   },
   {
     "Name": "Chinchou",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Water",
+    "Type 2": "Electric"
   },
   {
     "Name": "Lanturn",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Water",
+    "Type 2": "Electric"
   },
   {
     "Name": "Pichu",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Electric",
+    "Type 2": ""
   },
   {
     "Name": "Cleffa",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Fairy",
+    "Type 2": ""
   },
   {
     "Name": "Igglybuff",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Normal",
+    "Type 2": "Fairy"
   },
   {
     "Name": "Togepi",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Fairy",
+    "Type 2": ""
   },
   {
     "Name": "Togetic",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Fairy",
+    "Type 2": "Flying"
   },
   {
     "Name": "Natu",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Psychic",
+    "Type 2": "Flying"
   },
   {
     "Name": "Xatu",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Psychic",
+    "Type 2": "Flying"
   },
   {
     "Name": "Mareep",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Electric",
+    "Type 2": ""
   },
   {
     "Name": "Flaaffy",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Electric",
+    "Type 2": ""
   },
   {
     "Name": "Ampharos",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Electric",
+    "Type 2": ""
   },
   {
     "Name": "Ampharos",
-    "Form": "Mega Ampharos"
+    "Form": "Mega Ampharos",
+    "Type 1": "Electric",
+    "Type 2": "Dragon"
   },
   {
     "Name": "Bellossom",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Grass",
+    "Type 2": ""
   },
   {
     "Name": "Marill",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Water",
+    "Type 2": "Fairy"
   },
   {
     "Name": "Azumarill",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Water",
+    "Type 2": "Fairy"
   },
   {
     "Name": "Sudowoodo",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Rock",
+    "Type 2": ""
   },
   {
     "Name": "Politoed",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Water",
+    "Type 2": ""
   },
   {
     "Name": "Hoppip",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Grass",
+    "Type 2": "Flying"
   },
   {
     "Name": "Skiploom",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Grass",
+    "Type 2": "Flying"
   },
   {
     "Name": "Jumpluff",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Grass",
+    "Type 2": "Flying"
   },
   {
     "Name": "Aipom",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Normal",
+    "Type 2": ""
   },
   {
     "Name": "Sunkern",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Grass",
+    "Type 2": ""
   },
   {
     "Name": "Sunflora",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Grass",
+    "Type 2": ""
   },
   {
     "Name": "Yanma",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Bug",
+    "Type 2": "Flying"
   },
   {
     "Name": "Wooper",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Water",
+    "Type 2": "Ground"
   },
   {
     "Name": "Wooper",
-    "Form": "Paldean Wooper"
+    "Form": "Paldean Wooper",
+    "Type 1": "Poison",
+    "Type 2": "Ground"
   },
   {
     "Name": "Quagsire",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Water",
+    "Type 2": "Ground"
   },
   {
     "Name": "Espeon",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Psychic",
+    "Type 2": ""
   },
   {
     "Name": "Umbreon",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Dark",
+    "Type 2": ""
   },
   {
     "Name": "Murkrow",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Dark",
+    "Type 2": "Flying"
   },
   {
     "Name": "Slowking",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Water",
+    "Type 2": "Psychic"
   },
   {
     "Name": "Slowking",
-    "Form": "Galarian Slowking"
+    "Form": "Galarian Slowking",
+    "Type 1": "Poison",
+    "Type 2": "Psychic"
   },
   {
     "Name": "Misdreavus",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Ghost",
+    "Type 2": ""
   },
   {
     "Name": "Unown",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Psychic",
+    "Type 2": ""
   },
   {
     "Name": "Wobbuffet",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Psychic",
+    "Type 2": ""
   },
   {
     "Name": "Girafarig",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Normal",
+    "Type 2": "Psychic"
   },
   {
     "Name": "Pineco",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Bug",
+    "Type 2": ""
   },
   {
     "Name": "Forretress",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Bug",
+    "Type 2": "Steel"
   },
   {
     "Name": "Dunsparce",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Normal",
+    "Type 2": ""
   },
   {
     "Name": "Gligar",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Ground",
+    "Type 2": "Flying"
   },
   {
     "Name": "Steelix",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Steel",
+    "Type 2": "Ground"
   },
   {
     "Name": "Steelix",
-    "Form": "Mega Steelix"
+    "Form": "Mega Steelix",
+    "Type 1": "Steel",
+    "Type 2": "Ground"
   },
   {
     "Name": "Snubbull",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Fairy",
+    "Type 2": ""
   },
   {
     "Name": "Granbull",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Fairy",
+    "Type 2": ""
   },
   {
     "Name": "Qwilfish",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Water",
+    "Type 2": "Poison"
   },
   {
     "Name": "Qwilfish",
-    "Form": "Hisuian Qwilfish"
+    "Form": "Hisuian Qwilfish",
+    "Type 1": "Dark",
+    "Type 2": "Poison"
   },
   {
     "Name": "Scizor",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Bug",
+    "Type 2": "Steel"
   },
   {
     "Name": "Scizor",
-    "Form": "Mega Scizor"
+    "Form": "Mega Scizor",
+    "Type 1": "Bug",
+    "Type 2": "Steel"
   },
   {
     "Name": "Shuckle",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Bug",
+    "Type 2": "Rock"
   },
   {
     "Name": "Heracross",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Bug",
+    "Type 2": "Fighting"
   },
   {
     "Name": "Heracross",
-    "Form": "Mega Heracross"
+    "Form": "Mega Heracross",
+    "Type 1": "Bug",
+    "Type 2": "Fighting"
   },
   {
     "Name": "Sneasel",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Dark",
+    "Type 2": "Ice"
   },
   {
     "Name": "Sneasel",
-    "Form": "Hisuian Sneasel"
+    "Form": "Hisuian Sneasel",
+    "Type 1": "Fighting",
+    "Type 2": "Poison"
   },
   {
     "Name": "Teddiursa",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Normal",
+    "Type 2": ""
   },
   {
     "Name": "Ursaring",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Normal",
+    "Type 2": ""
   },
   {
     "Name": "Slugma",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Fire",
+    "Type 2": ""
   },
   {
     "Name": "Magcargo",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Fire",
+    "Type 2": "Rock"
   },
   {
     "Name": "Swinub",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Ice",
+    "Type 2": "Ground"
   },
   {
     "Name": "Piloswine",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Ice",
+    "Type 2": "Ground"
   },
   {
     "Name": "Corsola",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Water",
+    "Type 2": "Rock"
   },
   {
     "Name": "Corsola",
-    "Form": "Galarian Corsola"
+    "Form": "Galarian Corsola",
+    "Type 1": "Ghost",
+    "Type 2": ""
   },
   {
     "Name": "Remoraid",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Water",
+    "Type 2": ""
   },
   {
     "Name": "Octillery",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Water",
+    "Type 2": ""
   },
   {
     "Name": "Delibird",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Ice",
+    "Type 2": "Flying"
   },
   {
     "Name": "Mantine",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Water",
+    "Type 2": "Flying"
   },
   {
     "Name": "Skarmory",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Steel",
+    "Type 2": "Flying"
   },
   {
     "Name": "Houndour",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Dark",
+    "Type 2": "Fire"
   },
   {
     "Name": "Houndoom",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Dark",
+    "Type 2": "Fire"
   },
   {
     "Name": "Houndoom",
-    "Form": "Mega Houndoom"
+    "Form": "Mega Houndoom",
+    "Type 1": "Dark",
+    "Type 2": "Fire"
   },
   {
     "Name": "Kingdra",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Water",
+    "Type 2": "Dragon"
   },
   {
     "Name": "Phanpy",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Ground",
+    "Type 2": ""
   },
   {
     "Name": "Donphan",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Ground",
+    "Type 2": ""
   },
   {
     "Name": "Porygon2",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Normal",
+    "Type 2": ""
   },
   {
     "Name": "Stantler",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Normal",
+    "Type 2": ""
   },
   {
     "Name": "Smeargle",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Normal",
+    "Type 2": ""
   },
   {
     "Name": "Tyrogue",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Fighting",
+    "Type 2": ""
   },
   {
     "Name": "Hitmontop",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Fighting",
+    "Type 2": ""
   },
   {
     "Name": "Smoochum",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Ice",
+    "Type 2": "Psychic"
   },
   {
     "Name": "Elekid",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Electric",
+    "Type 2": ""
   },
   {
     "Name": "Magby",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Fire",
+    "Type 2": ""
   },
   {
     "Name": "Miltank",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Normal",
+    "Type 2": ""
   },
   {
     "Name": "Blissey",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Normal",
+    "Type 2": ""
   },
   {
     "Name": "Raikou",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Electric",
+    "Type 2": ""
   },
   {
     "Name": "Entei",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Fire",
+    "Type 2": ""
   },
   {
     "Name": "Suicune",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Water",
+    "Type 2": ""
   },
   {
     "Name": "Larvitar",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Rock",
+    "Type 2": "Ground"
   },
   {
     "Name": "Pupitar",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Rock",
+    "Type 2": "Ground"
   },
   {
     "Name": "Tyranitar",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Rock",
+    "Type 2": "Dark"
   },
   {
     "Name": "Tyranitar",
-    "Form": "Mega Tyranitar"
+    "Form": "Mega Tyranitar",
+    "Type 1": "Rock",
+    "Type 2": "Dark"
   },
   {
     "Name": "Lugia",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Psychic",
+    "Type 2": "Flying"
   },
   {
     "Name": "Ho-oh",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Fire",
+    "Type 2": "Flying"
   },
   {
     "Name": "Celebi",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Psychic",
+    "Type 2": "Grass"
   },
   {
     "Name": "Treecko",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Grass",
+    "Type 2": ""
   },
   {
     "Name": "Grovyle",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Grass",
+    "Type 2": ""
   },
   {
     "Name": "Sceptile",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Grass",
+    "Type 2": ""
   },
   {
     "Name": "Sceptile",
-    "Form": "Mega Sceptile"
+    "Form": "Mega Sceptile",
+    "Type 1": "Grass",
+    "Type 2": "Dragon"
   },
   {
     "Name": "Torchic",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Fire",
+    "Type 2": ""
   },
   {
     "Name": "Combusken",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Fire",
+    "Type 2": "Fighting"
   },
   {
     "Name": "Blaziken",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Fire",
+    "Type 2": "Fighting"
   },
   {
     "Name": "Blaziken",
-    "Form": "Mega Blaziken"
+    "Form": "Mega Blaziken",
+    "Type 1": "Fire",
+    "Type 2": "Fighting"
   },
   {
     "Name": "Mudkip",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Water",
+    "Type 2": ""
   },
   {
     "Name": "Marshtomp",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Water",
+    "Type 2": "Ground"
   },
   {
     "Name": "Swampert",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Water",
+    "Type 2": "Ground"
   },
   {
     "Name": "Swampert",
-    "Form": "Mega Swampert"
+    "Form": "Mega Swampert",
+    "Type 1": "Water",
+    "Type 2": "Ground"
   },
   {
     "Name": "Poochyena",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Dark",
+    "Type 2": ""
   },
   {
     "Name": "Mightyena",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Dark",
+    "Type 2": ""
   },
   {
     "Name": "Zigzagoon",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Normal",
+    "Type 2": ""
   },
   {
     "Name": "Zigzagoon",
-    "Form": "Galarian Zigzagoon"
+    "Form": "Galarian Zigzagoon",
+    "Type 1": "Dark",
+    "Type 2": "Normal"
   },
   {
     "Name": "Linoone",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Normal",
+    "Type 2": ""
   },
   {
     "Name": "Linoone",
-    "Form": "Galarian Linoone"
+    "Form": "Galarian Linoone",
+    "Type 1": "Dark",
+    "Type 2": "Normal"
   },
   {
     "Name": "Wurmple",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Bug",
+    "Type 2": ""
   },
   {
     "Name": "Silcoon",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Bug",
+    "Type 2": ""
   },
   {
     "Name": "Beautifly",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Bug",
+    "Type 2": "Flying"
   },
   {
     "Name": "Cascoon",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Bug",
+    "Type 2": ""
   },
   {
     "Name": "Dustox",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Bug",
+    "Type 2": "Poison"
   },
   {
     "Name": "Lotad",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Water",
+    "Type 2": "Grass"
   },
   {
     "Name": "Lombre",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Water",
+    "Type 2": "Grass"
   },
   {
     "Name": "Ludicolo",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Water",
+    "Type 2": "Grass"
   },
   {
     "Name": "Seedot",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Grass",
+    "Type 2": ""
   },
   {
     "Name": "Nuzleaf",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Grass",
+    "Type 2": "Dark"
   },
   {
     "Name": "Shiftry",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Grass",
+    "Type 2": "Dark"
   },
   {
     "Name": "Taillow",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Normal",
+    "Type 2": "Flying"
   },
   {
     "Name": "Swellow",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Normal",
+    "Type 2": "Flying"
   },
   {
     "Name": "Wingull",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Water",
+    "Type 2": "Flying"
   },
   {
     "Name": "Pelipper",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Water",
+    "Type 2": "Flying"
   },
   {
     "Name": "Ralts",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Psychic",
+    "Type 2": "Fairy"
   },
   {
     "Name": "Kirlia",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Psychic",
+    "Type 2": "Fairy"
   },
   {
     "Name": "Gardevoir",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Psychic",
+    "Type 2": "Fairy"
   },
   {
     "Name": "Gardevoir",
-    "Form": "Mega Gardevoir"
+    "Form": "Mega Gardevoir",
+    "Type 1": "Psychic",
+    "Type 2": "Fairy"
   },
   {
     "Name": "Surskit",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Bug",
+    "Type 2": "Water"
   },
   {
     "Name": "Masquerain",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Bug",
+    "Type 2": "Flying"
   },
   {
     "Name": "Shroomish",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Grass",
+    "Type 2": ""
   },
   {
     "Name": "Breloom",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Grass",
+    "Type 2": "Fighting"
   },
   {
     "Name": "Slakoth",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Normal",
+    "Type 2": ""
   },
   {
     "Name": "Vigoroth",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Normal",
+    "Type 2": ""
   },
   {
     "Name": "Slaking",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Normal",
+    "Type 2": ""
   },
   {
     "Name": "Nincada",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Bug",
+    "Type 2": "Ground"
   },
   {
     "Name": "Ninjask",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Bug",
+    "Type 2": "Flying"
   },
   {
     "Name": "Shedinja",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Bug",
+    "Type 2": "Ghost"
   },
   {
     "Name": "Whismur",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Normal",
+    "Type 2": ""
   },
   {
     "Name": "Loudred",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Normal",
+    "Type 2": ""
   },
   {
     "Name": "Exploud",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Normal",
+    "Type 2": ""
   },
   {
     "Name": "Makuhita",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Fighting",
+    "Type 2": ""
   },
   {
     "Name": "Hariyama",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Fighting",
+    "Type 2": ""
   },
   {
     "Name": "Azurill",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Normal",
+    "Type 2": "Fairy"
   },
   {
     "Name": "Nosepass",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Rock",
+    "Type 2": ""
   },
   {
     "Name": "Skitty",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Normal",
+    "Type 2": ""
   },
   {
     "Name": "Delcatty",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Normal",
+    "Type 2": ""
   },
   {
     "Name": "Sableye",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Dark",
+    "Type 2": "Ghost"
   },
   {
     "Name": "Sableye",
-    "Form": "Mega Sableye"
+    "Form": "Mega Sableye",
+    "Type 1": "Dark",
+    "Type 2": "Ghost"
   },
   {
     "Name": "Mawile",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Steel",
+    "Type 2": "Fairy"
   },
   {
     "Name": "Mawile",
-    "Form": "Mega Mawile"
+    "Form": "Mega Mawile",
+    "Type 1": "Steel",
+    "Type 2": "Fairy"
   },
   {
     "Name": "Aron",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Steel",
+    "Type 2": "Rock"
   },
   {
     "Name": "Lairon",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Steel",
+    "Type 2": "Rock"
   },
   {
     "Name": "Aggron",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Steel",
+    "Type 2": "Rock"
   },
   {
     "Name": "Aggron",
-    "Form": "Mega Aggron"
+    "Form": "Mega Aggron",
+    "Type 1": "Steel",
+    "Type 2": ""
   },
   {
     "Name": "Meditite",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Fighting",
+    "Type 2": "Psychic"
   },
   {
     "Name": "Medicham",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Fighting",
+    "Type 2": "Psychic"
   },
   {
     "Name": "Medicham",
-    "Form": "Mega Medicham"
+    "Form": "Mega Medicham",
+    "Type 1": "Fighting",
+    "Type 2": "Psychic"
   },
   {
     "Name": "Electrike",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Electric",
+    "Type 2": ""
   },
   {
     "Name": "Manectric",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Electric",
+    "Type 2": ""
   },
   {
     "Name": "Manectric",
-    "Form": "Mega Manectric"
+    "Form": "Mega Manectric",
+    "Type 1": "Electric",
+    "Type 2": ""
   },
   {
     "Name": "Plusle",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Electric",
+    "Type 2": ""
   },
   {
     "Name": "Minun",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Electric",
+    "Type 2": ""
   },
   {
     "Name": "Volbeat",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Bug",
+    "Type 2": ""
   },
   {
     "Name": "Illumise",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Bug",
+    "Type 2": ""
   },
   {
     "Name": "Roselia",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Grass",
+    "Type 2": "Poison"
   },
   {
     "Name": "Gulpin",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Poison",
+    "Type 2": ""
   },
   {
     "Name": "Swalot",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Poison",
+    "Type 2": ""
   },
   {
     "Name": "Carvanha",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Water",
+    "Type 2": "Dark"
   },
   {
     "Name": "Sharpedo",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Water",
+    "Type 2": "Dark"
   },
   {
     "Name": "Sharpedo",
-    "Form": "Mega Sharpedo"
+    "Form": "Mega Sharpedo",
+    "Type 1": "Water",
+    "Type 2": "Dark"
   },
   {
     "Name": "Wailmer",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Water",
+    "Type 2": ""
   },
   {
     "Name": "Wailord",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Water",
+    "Type 2": ""
   },
   {
     "Name": "Numel",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Fire",
+    "Type 2": "Ground"
   },
   {
     "Name": "Camerupt",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Fire",
+    "Type 2": "Ground"
   },
   {
     "Name": "Camerupt",
-    "Form": "Mega Camerupt"
+    "Form": "Mega Camerupt",
+    "Type 1": "Fire",
+    "Type 2": "Ground"
   },
   {
     "Name": "Torkoal",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Fire",
+    "Type 2": ""
   },
   {
     "Name": "Spoink",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Psychic",
+    "Type 2": ""
   },
   {
     "Name": "Grumpig",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Psychic",
+    "Type 2": ""
   },
   {
     "Name": "Spinda",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Normal",
+    "Type 2": ""
   },
   {
     "Name": "Trapinch",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Ground",
+    "Type 2": ""
   },
   {
     "Name": "Vibrava",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Ground",
+    "Type 2": "Dragon"
   },
   {
     "Name": "Flygon",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Ground",
+    "Type 2": "Dragon"
   },
   {
     "Name": "Cacnea",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Grass",
+    "Type 2": ""
   },
   {
     "Name": "Cacturne",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Grass",
+    "Type 2": "Dark"
   },
   {
     "Name": "Swablu",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Normal",
+    "Type 2": "Flying"
   },
   {
     "Name": "Altaria",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Dragon",
+    "Type 2": "Flying"
   },
   {
     "Name": "Altaria",
-    "Form": "Mega Altaria"
+    "Form": "Mega Altaria",
+    "Type 1": "Dragon",
+    "Type 2": "Fairy"
   },
   {
     "Name": "Zangoose",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Normal",
+    "Type 2": ""
   },
   {
     "Name": "Seviper",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Poison",
+    "Type 2": ""
   },
   {
     "Name": "Lunatone",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Rock",
+    "Type 2": "Psychic"
   },
   {
     "Name": "Solrock",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Rock",
+    "Type 2": "Psychic"
   },
   {
     "Name": "Barboach",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Water",
+    "Type 2": "Ground"
   },
   {
     "Name": "Whiscash",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Water",
+    "Type 2": "Ground"
   },
   {
     "Name": "Corphish",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Water",
+    "Type 2": ""
   },
   {
     "Name": "Crawdaunt",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Water",
+    "Type 2": "Dark"
   },
   {
     "Name": "Baltoy",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Ground",
+    "Type 2": "Psychic"
   },
   {
     "Name": "Claydol",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Ground",
+    "Type 2": "Psychic"
   },
   {
     "Name": "Lileep",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Rock",
+    "Type 2": "Grass"
   },
   {
     "Name": "Cradily",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Rock",
+    "Type 2": "Grass"
   },
   {
     "Name": "Anorith",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Rock",
+    "Type 2": "Bug"
   },
   {
     "Name": "Armaldo",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Rock",
+    "Type 2": "Bug"
   },
   {
     "Name": "Feebas",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Water",
+    "Type 2": ""
   },
   {
     "Name": "Milotic",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Water",
+    "Type 2": ""
   },
   {
     "Name": "Castform",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Normal",
+    "Type 2": ""
   },
   {
     "Name": "Castform",
-    "Form": "Sunny Form"
+    "Form": "Sunny Form",
+    "Type 1": "Fire",
+    "Type 2": ""
   },
   {
     "Name": "Castform",
-    "Form": "Rainy Form"
+    "Form": "Rainy Form",
+    "Type 1": "Water",
+    "Type 2": ""
   },
   {
     "Name": "Castform",
-    "Form": "Snowy Form"
+    "Form": "Snowy Form",
+    "Type 1": "Ice",
+    "Type 2": ""
   },
   {
     "Name": "Kecleon",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Normal",
+    "Type 2": ""
   },
   {
     "Name": "Shuppet",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Ghost",
+    "Type 2": ""
   },
   {
     "Name": "Banette",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Ghost",
+    "Type 2": ""
   },
   {
     "Name": "Banette",
-    "Form": "Mega Banette"
+    "Form": "Mega Banette",
+    "Type 1": "Ghost",
+    "Type 2": ""
   },
   {
     "Name": "Duskull",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Ghost",
+    "Type 2": ""
   },
   {
     "Name": "Dusclops",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Ghost",
+    "Type 2": ""
   },
   {
     "Name": "Tropius",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Grass",
+    "Type 2": "Flying"
   },
   {
     "Name": "Chimecho",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Psychic",
+    "Type 2": ""
   },
   {
     "Name": "Absol",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Dark",
+    "Type 2": ""
   },
   {
     "Name": "Absol",
-    "Form": "Mega Absol"
+    "Form": "Mega Absol",
+    "Type 1": "Dark",
+    "Type 2": ""
   },
   {
     "Name": "Wynaut",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Psychic",
+    "Type 2": ""
   },
   {
     "Name": "Snorunt",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Ice",
+    "Type 2": ""
   },
   {
     "Name": "Glalie",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Ice",
+    "Type 2": ""
   },
   {
     "Name": "Glalie",
-    "Form": "Mega Glalie"
+    "Form": "Mega Glalie",
+    "Type 1": "Ice",
+    "Type 2": ""
   },
   {
     "Name": "Spheal",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Ice",
+    "Type 2": "Water"
   },
   {
     "Name": "Sealeo",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Ice",
+    "Type 2": "Water"
   },
   {
     "Name": "Walrein",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Ice",
+    "Type 2": "Water"
   },
   {
     "Name": "Clamperl",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Water",
+    "Type 2": ""
   },
   {
     "Name": "Huntail",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Water",
+    "Type 2": ""
   },
   {
     "Name": "Gorebyss",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Water",
+    "Type 2": ""
   },
   {
     "Name": "Relicanth",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Water",
+    "Type 2": "Rock"
   },
   {
     "Name": "Luvdisc",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Water",
+    "Type 2": ""
   },
   {
     "Name": "Bagon",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Dragon",
+    "Type 2": ""
   },
   {
     "Name": "Shelgon",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Dragon",
+    "Type 2": ""
   },
   {
     "Name": "Salamence",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Dragon",
+    "Type 2": "Flying"
   },
   {
     "Name": "Salamence",
-    "Form": "Mega Salamence"
+    "Form": "Mega Salamence",
+    "Type 1": "Dragon",
+    "Type 2": "Flying"
   },
   {
     "Name": "Beldum",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Steel",
+    "Type 2": "Psychic"
   },
   {
     "Name": "Metang",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Steel",
+    "Type 2": "Psychic"
   },
   {
     "Name": "Metagross",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Steel",
+    "Type 2": "Psychic"
   },
   {
     "Name": "Metagross",
-    "Form": "Mega Metagross"
+    "Form": "Mega Metagross",
+    "Type 1": "Steel",
+    "Type 2": "Psychic"
   },
   {
     "Name": "Regirock",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Rock",
+    "Type 2": ""
   },
   {
     "Name": "Regice",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Ice",
+    "Type 2": ""
   },
   {
     "Name": "Registeel",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Steel",
+    "Type 2": ""
   },
   {
     "Name": "Latias",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Dragon",
+    "Type 2": "Psychic"
   },
   {
     "Name": "Latias",
-    "Form": "Mega Latias"
+    "Form": "Mega Latias",
+    "Type 1": "Dragon",
+    "Type 2": "Psychic"
   },
   {
     "Name": "Latios",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Dragon",
+    "Type 2": "Psychic"
   },
   {
     "Name": "Latios",
-    "Form": "Mega Latios"
+    "Form": "Mega Latios",
+    "Type 1": "Dragon",
+    "Type 2": "Psychic"
   },
   {
     "Name": "Kyogre",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Water",
+    "Type 2": ""
   },
   {
     "Name": "Kyogre",
-    "Form": "Primal Kyogre"
+    "Form": "Primal Kyogre",
+    "Type 1": "Water",
+    "Type 2": ""
   },
   {
     "Name": "Groudon",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Ground",
+    "Type 2": ""
   },
   {
     "Name": "Groudon",
-    "Form": "Primal Groudon"
+    "Form": "Primal Groudon",
+    "Type 1": "Ground",
+    "Type 2": "Fire"
   },
   {
     "Name": "Rayquaza",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Dragon",
+    "Type 2": "Flying"
   },
   {
     "Name": "Rayquaza",
-    "Form": "Mega Rayquaza"
+    "Form": "Mega Rayquaza",
+    "Type 1": "Dragon",
+    "Type 2": "Flying"
   },
   {
     "Name": "Jirachi",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Steel",
+    "Type 2": "Psychic"
   },
   {
     "Name": "Deoxys",
-    "Form": "Normal Forme"
+    "Form": "Normal Forme",
+    "Type 1": "Psychic",
+    "Type 2": ""
   },
   {
     "Name": "Deoxys",
-    "Form": "Attack Forme"
+    "Form": "Attack Forme",
+    "Type 1": "Psychic",
+    "Type 2": ""
   },
   {
     "Name": "Deoxys",
-    "Form": "Defense Forme"
+    "Form": "Defense Forme",
+    "Type 1": "Psychic",
+    "Type 2": ""
   },
   {
     "Name": "Deoxys",
-    "Form": "Speed Forme"
+    "Form": "Speed Forme",
+    "Type 1": "Psychic",
+    "Type 2": ""
   },
   {
     "Name": "Turtwig",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Grass",
+    "Type 2": ""
   },
   {
     "Name": "Grotle",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Grass",
+    "Type 2": ""
   },
   {
     "Name": "Torterra",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Grass",
+    "Type 2": "Ground"
   },
   {
     "Name": "Chimchar",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Fire",
+    "Type 2": ""
   },
   {
     "Name": "Monferno",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Fire",
+    "Type 2": "Fighting"
   },
   {
     "Name": "Infernape",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Fire",
+    "Type 2": "Fighting"
   },
   {
     "Name": "Piplup",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Water",
+    "Type 2": ""
   },
   {
     "Name": "Prinplup",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Water",
+    "Type 2": ""
   },
   {
     "Name": "Empoleon",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Water",
+    "Type 2": "Steel"
   },
   {
     "Name": "Starly",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Normal",
+    "Type 2": "Flying"
   },
   {
     "Name": "Staravia",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Normal",
+    "Type 2": "Flying"
   },
   {
     "Name": "Staraptor",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Normal",
+    "Type 2": "Flying"
   },
   {
     "Name": "Bidoof",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Normal",
+    "Type 2": ""
   },
   {
     "Name": "Bibarel",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Normal",
+    "Type 2": "Water"
   },
   {
     "Name": "Kricketot",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Bug",
+    "Type 2": ""
   },
   {
     "Name": "Kricketune",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Bug",
+    "Type 2": ""
   },
   {
     "Name": "Shinx",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Electric",
+    "Type 2": ""
   },
   {
     "Name": "Luxio",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Electric",
+    "Type 2": ""
   },
   {
     "Name": "Luxray",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Electric",
+    "Type 2": ""
   },
   {
     "Name": "Budew",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Grass",
+    "Type 2": "Poison"
   },
   {
     "Name": "Roserade",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Grass",
+    "Type 2": "Poison"
   },
   {
     "Name": "Cranidos",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Rock",
+    "Type 2": ""
   },
   {
     "Name": "Rampardos",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Rock",
+    "Type 2": ""
   },
   {
     "Name": "Shieldon",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Rock",
+    "Type 2": "Steel"
   },
   {
     "Name": "Bastiodon",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Rock",
+    "Type 2": "Steel"
   },
   {
     "Name": "Burmy",
-    "Form": "Plant Cloak"
+    "Form": "Plant Cloak",
+    "Type 1": "Bug",
+    "Type 2": ""
   },
   {
     "Name": "Burmy",
-    "Form": "Sandy Cloak"
+    "Form": "Sandy Cloak",
+    "Type 1": "Bug",
+    "Type 2": ""
   },
   {
     "Name": "Burmy",
-    "Form": "Trash Cloak"
+    "Form": "Trash Cloak",
+    "Type 1": "Bug",
+    "Type 2": ""
   },
   {
     "Name": "Wormadam",
-    "Form": "Plant Cloak"
+    "Form": "Plant Cloak",
+    "Type 1": "Bug",
+    "Type 2": "Grass"
   },
   {
     "Name": "Wormadam",
-    "Form": "Sandy Cloak"
+    "Form": "Sandy Cloak",
+    "Type 1": "Bug",
+    "Type 2": "Ground"
   },
   {
     "Name": "Wormadam",
-    "Form": "Trash Cloak"
+    "Form": "Trash Cloak",
+    "Type 1": "Bug",
+    "Type 2": "Steel"
   },
   {
     "Name": "Mothim",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Bug",
+    "Type 2": "Flying"
   },
   {
     "Name": "Combee",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Bug",
+    "Type 2": "Flying"
   },
   {
     "Name": "Vespiquen",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Bug",
+    "Type 2": "Flying"
   },
   {
     "Name": "Pachirisu",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Electric",
+    "Type 2": ""
   },
   {
     "Name": "Buizel",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Water",
+    "Type 2": ""
   },
   {
     "Name": "Floatzel",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Water",
+    "Type 2": ""
   },
   {
     "Name": "Cherubi",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Grass",
+    "Type 2": ""
   },
   {
     "Name": "Cherrim",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Grass",
+    "Type 2": ""
   },
   {
     "Name": "Shellos",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Water",
+    "Type 2": ""
   },
   {
     "Name": "Gastrodon",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Water",
+    "Type 2": "Ground"
   },
   {
     "Name": "Ambipom",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Normal",
+    "Type 2": ""
   },
   {
     "Name": "Drifloon",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Ghost",
+    "Type 2": "Flying"
   },
   {
     "Name": "Drifblim",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Ghost",
+    "Type 2": "Flying"
   },
   {
     "Name": "Buneary",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Normal",
+    "Type 2": ""
   },
   {
     "Name": "Lopunny",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Normal",
+    "Type 2": ""
   },
   {
     "Name": "Lopunny",
-    "Form": "Mega Lopunny"
+    "Form": "Mega Lopunny",
+    "Type 1": "Normal",
+    "Type 2": "Fighting"
   },
   {
     "Name": "Mismagius",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Ghost",
+    "Type 2": ""
   },
   {
     "Name": "Honchkrow",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Dark",
+    "Type 2": "Flying"
   },
   {
     "Name": "Glameow",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Normal",
+    "Type 2": ""
   },
   {
     "Name": "Purugly",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Normal",
+    "Type 2": ""
   },
   {
     "Name": "Chingling",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Psychic",
+    "Type 2": ""
   },
   {
     "Name": "Stunky",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Poison",
+    "Type 2": "Dark"
   },
   {
     "Name": "Skuntank",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Poison",
+    "Type 2": "Dark"
   },
   {
     "Name": "Bronzor",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Steel",
+    "Type 2": "Psychic"
   },
   {
     "Name": "Bronzong",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Steel",
+    "Type 2": "Psychic"
   },
   {
     "Name": "Bonsly",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Rock",
+    "Type 2": ""
   },
   {
     "Name": "Mime Jr.",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Psychic",
+    "Type 2": "Fairy"
   },
   {
     "Name": "Happiny",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Normal",
+    "Type 2": ""
   },
   {
     "Name": "Chatot",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Normal",
+    "Type 2": "Flying"
   },
   {
     "Name": "Spiritomb",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Ghost",
+    "Type 2": "Dark"
   },
   {
     "Name": "Gible",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Dragon",
+    "Type 2": "Ground"
   },
   {
     "Name": "Gabite",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Dragon",
+    "Type 2": "Ground"
   },
   {
     "Name": "Garchomp",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Dragon",
+    "Type 2": "Ground"
   },
   {
     "Name": "Garchomp",
-    "Form": "Mega Garchomp"
+    "Form": "Mega Garchomp",
+    "Type 1": "Dragon",
+    "Type 2": "Ground"
   },
   {
     "Name": "Munchlax",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Normal",
+    "Type 2": ""
   },
   {
     "Name": "Riolu",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Fighting",
+    "Type 2": ""
   },
   {
     "Name": "Lucario",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Fighting",
+    "Type 2": "Steel"
   },
   {
     "Name": "Lucario",
-    "Form": "Mega Lucario"
+    "Form": "Mega Lucario",
+    "Type 1": "Fighting",
+    "Type 2": "Steel"
   },
   {
     "Name": "Hippopotas",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Ground",
+    "Type 2": ""
   },
   {
     "Name": "Hippowdon",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Ground",
+    "Type 2": ""
   },
   {
     "Name": "Skorupi",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Poison",
+    "Type 2": "Bug"
   },
   {
     "Name": "Drapion",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Poison",
+    "Type 2": "Dark"
   },
   {
     "Name": "Croagunk",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Poison",
+    "Type 2": "Fighting"
   },
   {
     "Name": "Toxicroak",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Poison",
+    "Type 2": "Fighting"
   },
   {
     "Name": "Carnivine",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Grass",
+    "Type 2": ""
   },
   {
     "Name": "Finneon",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Water",
+    "Type 2": ""
   },
   {
     "Name": "Lumineon",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Water",
+    "Type 2": ""
   },
   {
     "Name": "Mantyke",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Water",
+    "Type 2": "Flying"
   },
   {
     "Name": "Snover",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Grass",
+    "Type 2": "Ice"
   },
   {
     "Name": "Abomasnow",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Grass",
+    "Type 2": "Ice"
   },
   {
     "Name": "Abomasnow",
-    "Form": "Mega Abomasnow"
+    "Form": "Mega Abomasnow",
+    "Type 1": "Grass",
+    "Type 2": "Ice"
   },
   {
     "Name": "Weavile",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Dark",
+    "Type 2": "Ice"
   },
   {
     "Name": "Magnezone",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Electric",
+    "Type 2": "Steel"
   },
   {
     "Name": "Lickilicky",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Normal",
+    "Type 2": ""
   },
   {
     "Name": "Rhyperior",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Ground",
+    "Type 2": "Rock"
   },
   {
     "Name": "Tangrowth",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Grass",
+    "Type 2": ""
   },
   {
     "Name": "Electivire",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Electric",
+    "Type 2": ""
   },
   {
     "Name": "Magmortar",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Fire",
+    "Type 2": ""
   },
   {
     "Name": "Togekiss",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Fairy",
+    "Type 2": "Flying"
   },
   {
     "Name": "Yanmega",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Bug",
+    "Type 2": "Flying"
   },
   {
     "Name": "Leafeon",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Grass",
+    "Type 2": ""
   },
   {
     "Name": "Glaceon",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Ice",
+    "Type 2": ""
   },
   {
     "Name": "Gliscor",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Ground",
+    "Type 2": "Flying"
   },
   {
     "Name": "Mamoswine",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Ice",
+    "Type 2": "Ground"
   },
   {
     "Name": "Porygon-Z",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Normal",
+    "Type 2": ""
   },
   {
     "Name": "Gallade",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Psychic",
+    "Type 2": "Fighting"
   },
   {
     "Name": "Gallade",
-    "Form": "Mega Gallade"
+    "Form": "Mega Gallade",
+    "Type 1": "Psychic",
+    "Type 2": "Fighting"
   },
   {
     "Name": "Probopass",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Rock",
+    "Type 2": "Steel"
   },
   {
     "Name": "Dusknoir",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Ghost",
+    "Type 2": ""
   },
   {
     "Name": "Froslass",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Ice",
+    "Type 2": "Ghost"
   },
   {
     "Name": "Rotom",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Electric",
+    "Type 2": "Ghost"
   },
   {
     "Name": "Rotom",
-    "Form": "Heat Rotom"
+    "Form": "Heat Rotom",
+    "Type 1": "Electric",
+    "Type 2": "Fire"
   },
   {
     "Name": "Rotom",
-    "Form": "Wash Rotom"
+    "Form": "Wash Rotom",
+    "Type 1": "Electric",
+    "Type 2": "Water"
   },
   {
     "Name": "Rotom",
-    "Form": "Frost Rotom"
+    "Form": "Frost Rotom",
+    "Type 1": "Electric",
+    "Type 2": "Ice"
   },
   {
     "Name": "Rotom",
-    "Form": "Fan Rotom"
+    "Form": "Fan Rotom",
+    "Type 1": "Electric",
+    "Type 2": "Flying"
   },
   {
     "Name": "Rotom",
-    "Form": "Mow Rotom"
+    "Form": "Mow Rotom",
+    "Type 1": "Electric",
+    "Type 2": "Grass"
   },
   {
     "Name": "Uxie",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Psychic",
+    "Type 2": ""
   },
   {
     "Name": "Mesprit",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Psychic",
+    "Type 2": ""
   },
   {
     "Name": "Azelf",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Psychic",
+    "Type 2": ""
   },
   {
     "Name": "Dialga",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Steel",
+    "Type 2": "Dragon"
   },
   {
     "Name": "Dialga",
-    "Form": "Origin Forme"
+    "Form": "Origin Forme",
+    "Type 1": "Steel",
+    "Type 2": "Dragon"
   },
   {
     "Name": "Palkia",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Water",
+    "Type 2": "Dragon"
   },
   {
     "Name": "Palkia",
-    "Form": "Origin Forme"
+    "Form": "Origin Forme",
+    "Type 1": "Water",
+    "Type 2": "Dragon"
   },
   {
     "Name": "Heatran",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Fire",
+    "Type 2": "Steel"
   },
   {
     "Name": "Regigigas",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Normal",
+    "Type 2": ""
   },
   {
     "Name": "Giratina",
-    "Form": "Altered Forme"
+    "Form": "Altered Forme",
+    "Type 1": "Ghost",
+    "Type 2": "Dragon"
   },
   {
     "Name": "Giratina",
-    "Form": "Origin Forme"
+    "Form": "Origin Forme",
+    "Type 1": "Ghost",
+    "Type 2": "Dragon"
   },
   {
     "Name": "Cresselia",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Psychic",
+    "Type 2": ""
   },
   {
     "Name": "Phione",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Water",
+    "Type 2": ""
   },
   {
     "Name": "Manaphy",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Water",
+    "Type 2": ""
   },
   {
     "Name": "Darkrai",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Dark",
+    "Type 2": ""
   },
   {
     "Name": "Shaymin",
-    "Form": "Land Forme"
+    "Form": "Land Forme",
+    "Type 1": "Grass",
+    "Type 2": ""
   },
   {
     "Name": "Shaymin",
-    "Form": "Sky Forme"
+    "Form": "Sky Forme",
+    "Type 1": "Grass",
+    "Type 2": "Flying"
   },
   {
     "Name": "Arceus",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Normal",
+    "Type 2": ""
   },
   {
     "Name": "Victini",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Psychic",
+    "Type 2": "Fire"
   },
   {
     "Name": "Snivy",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Grass",
+    "Type 2": ""
   },
   {
     "Name": "Servine",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Grass",
+    "Type 2": ""
   },
   {
     "Name": "Serperior",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Grass",
+    "Type 2": ""
   },
   {
     "Name": "Tepig",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Fire",
+    "Type 2": ""
   },
   {
     "Name": "Pignite",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Fire",
+    "Type 2": "Fighting"
   },
   {
     "Name": "Emboar",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Fire",
+    "Type 2": "Fighting"
   },
   {
     "Name": "Oshawott",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Water",
+    "Type 2": ""
   },
   {
     "Name": "Dewott",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Water",
+    "Type 2": ""
   },
   {
     "Name": "Samurott",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Water",
+    "Type 2": ""
   },
   {
     "Name": "Samurott",
-    "Form": "Hisuian Samurott"
+    "Form": "Hisuian Samurott",
+    "Type 1": "Water",
+    "Type 2": "Dark"
   },
   {
     "Name": "Patrat",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Normal",
+    "Type 2": ""
   },
   {
     "Name": "Watchog",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Normal",
+    "Type 2": ""
   },
   {
     "Name": "Lillipup",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Normal",
+    "Type 2": ""
   },
   {
     "Name": "Herdier",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Normal",
+    "Type 2": ""
   },
   {
     "Name": "Stoutland",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Normal",
+    "Type 2": ""
   },
   {
     "Name": "Purrloin",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Dark",
+    "Type 2": ""
   },
   {
     "Name": "Liepard",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Dark",
+    "Type 2": ""
   },
   {
     "Name": "Pansage",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Grass",
+    "Type 2": ""
   },
   {
     "Name": "Simisage",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Grass",
+    "Type 2": ""
   },
   {
     "Name": "Pansear",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Fire",
+    "Type 2": ""
   },
   {
     "Name": "Simisear",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Fire",
+    "Type 2": ""
   },
   {
     "Name": "Panpour",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Water",
+    "Type 2": ""
   },
   {
     "Name": "Simipour",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Water",
+    "Type 2": ""
   },
   {
     "Name": "Munna",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Psychic",
+    "Type 2": ""
   },
   {
     "Name": "Musharna",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Psychic",
+    "Type 2": ""
   },
   {
     "Name": "Pidove",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Normal",
+    "Type 2": "Flying"
   },
   {
     "Name": "Tranquill",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Normal",
+    "Type 2": "Flying"
   },
   {
     "Name": "Unfezant",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Normal",
+    "Type 2": "Flying"
   },
   {
     "Name": "Blitzle",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Electric",
+    "Type 2": ""
   },
   {
     "Name": "Zebstrika",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Electric",
+    "Type 2": ""
   },
   {
     "Name": "Roggenrola",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Rock",
+    "Type 2": ""
   },
   {
     "Name": "Boldore",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Rock",
+    "Type 2": ""
   },
   {
     "Name": "Gigalith",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Rock",
+    "Type 2": ""
   },
   {
     "Name": "Woobat",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Psychic",
+    "Type 2": "Flying"
   },
   {
     "Name": "Swoobat",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Psychic",
+    "Type 2": "Flying"
   },
   {
     "Name": "Drilbur",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Ground",
+    "Type 2": ""
   },
   {
     "Name": "Excadrill",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Ground",
+    "Type 2": "Steel"
   },
   {
     "Name": "Audino",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Normal",
+    "Type 2": ""
   },
   {
     "Name": "Audino",
-    "Form": "Mega Audino"
+    "Form": "Mega Audino",
+    "Type 1": "Normal",
+    "Type 2": "Fairy"
   },
   {
     "Name": "Timburr",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Fighting",
+    "Type 2": ""
   },
   {
     "Name": "Gurdurr",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Fighting",
+    "Type 2": ""
   },
   {
     "Name": "Conkeldurr",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Fighting",
+    "Type 2": ""
   },
   {
     "Name": "Tympole",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Water",
+    "Type 2": ""
   },
   {
     "Name": "Palpitoad",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Water",
+    "Type 2": "Ground"
   },
   {
     "Name": "Seismitoad",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Water",
+    "Type 2": "Ground"
   },
   {
     "Name": "Throh",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Fighting",
+    "Type 2": ""
   },
   {
     "Name": "Sawk",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Fighting",
+    "Type 2": ""
   },
   {
     "Name": "Sewaddle",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Bug",
+    "Type 2": "Grass"
   },
   {
     "Name": "Swadloon",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Bug",
+    "Type 2": "Grass"
   },
   {
     "Name": "Leavanny",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Bug",
+    "Type 2": "Grass"
   },
   {
     "Name": "Venipede",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Bug",
+    "Type 2": "Poison"
   },
   {
     "Name": "Whirlipede",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Bug",
+    "Type 2": "Poison"
   },
   {
     "Name": "Scolipede",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Bug",
+    "Type 2": "Poison"
   },
   {
     "Name": "Cottonee",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Grass",
+    "Type 2": "Fairy"
   },
   {
     "Name": "Whimsicott",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Grass",
+    "Type 2": "Fairy"
   },
   {
     "Name": "Petilil",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Grass",
+    "Type 2": ""
   },
   {
     "Name": "Lilligant",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Grass",
+    "Type 2": ""
   },
   {
     "Name": "Lilligant",
-    "Form": "Hisuian Lilligant"
+    "Form": "Hisuian Lilligant",
+    "Type 1": "Grass",
+    "Type 2": "Fighting"
   },
   {
     "Name": "Basculin",
-    "Form": "Red-Striped Form"
+    "Form": "Red-Striped Form",
+    "Type 1": "Water",
+    "Type 2": ""
   },
   {
     "Name": "Basculin",
-    "Form": "Blue-Striped Form"
+    "Form": "Blue-Striped Form",
+    "Type 1": "Water",
+    "Type 2": ""
   },
   {
     "Name": "Basculin",
-    "Form": "White-Striped Form"
+    "Form": "White-Striped Form",
+    "Type 1": "Water",
+    "Type 2": ""
   },
   {
     "Name": "Sandile",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Ground",
+    "Type 2": "Dark"
   },
   {
     "Name": "Krokorok",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Ground",
+    "Type 2": "Dark"
   },
   {
     "Name": "Krookodile",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Ground",
+    "Type 2": "Dark"
   },
   {
     "Name": "Darumaka",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Fire",
+    "Type 2": ""
   },
   {
     "Name": "Darumaka",
-    "Form": "Galarian Darumaka"
+    "Form": "Galarian Darumaka",
+    "Type 1": "Ice",
+    "Type 2": ""
   },
   {
     "Name": "Darmanitan",
-    "Form": "Standard Mode"
+    "Form": "Standard Mode",
+    "Type 1": "Fire",
+    "Type 2": ""
   },
   {
     "Name": "Darmanitan",
-    "Form": "Zen Mode"
+    "Form": "Zen Mode",
+    "Type 1": "Fire",
+    "Type 2": "Psychic"
   },
   {
     "Name": "Darmanitan",
-    "Form": "Galarian Standard Mode"
+    "Form": "Galarian Standard Mode",
+    "Type 1": "Ice",
+    "Type 2": ""
   },
   {
     "Name": "Darmanitan",
-    "Form": "Galarian Zen Mode"
+    "Form": "Galarian Zen Mode",
+    "Type 1": "Ice",
+    "Type 2": "Fire"
   },
   {
     "Name": "Maractus",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Grass",
+    "Type 2": ""
   },
   {
     "Name": "Dwebble",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Bug",
+    "Type 2": "Rock"
   },
   {
     "Name": "Crustle",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Bug",
+    "Type 2": "Rock"
   },
   {
     "Name": "Scraggy",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Dark",
+    "Type 2": "Fighting"
   },
   {
     "Name": "Scrafty",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Dark",
+    "Type 2": "Fighting"
   },
   {
     "Name": "Sigilyph",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Psychic",
+    "Type 2": "Flying"
   },
   {
     "Name": "Yamask",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Ghost",
+    "Type 2": ""
   },
   {
     "Name": "Yamask",
-    "Form": "Galarian Yamask"
+    "Form": "Galarian Yamask",
+    "Type 1": "Ground",
+    "Type 2": "Ghost"
   },
   {
     "Name": "Cofagrigus",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Ghost",
+    "Type 2": ""
   },
   {
     "Name": "Tirtouga",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Water",
+    "Type 2": "Rock"
   },
   {
     "Name": "Carracosta",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Water",
+    "Type 2": "Rock"
   },
   {
     "Name": "Archen",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Rock",
+    "Type 2": "Flying"
   },
   {
     "Name": "Archeops",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Rock",
+    "Type 2": "Flying"
   },
   {
     "Name": "Trubbish",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Poison",
+    "Type 2": ""
   },
   {
     "Name": "Garbodor",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Poison",
+    "Type 2": ""
   },
   {
     "Name": "Zorua",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Dark",
+    "Type 2": ""
   },
   {
     "Name": "Zorua",
-    "Form": "Hisuian Zorua"
+    "Form": "Hisuian Zorua",
+    "Type 1": "Normal",
+    "Type 2": "Ghost"
   },
   {
     "Name": "Zoroark",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Dark",
+    "Type 2": ""
   },
   {
     "Name": "Zoroark",
-    "Form": "Hisuian Zoroark"
+    "Form": "Hisuian Zoroark",
+    "Type 1": "Normal",
+    "Type 2": "Ghost"
   },
   {
     "Name": "Minccino",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Normal",
+    "Type 2": ""
   },
   {
     "Name": "Cinccino",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Normal",
+    "Type 2": ""
   },
   {
     "Name": "Gothita",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Psychic",
+    "Type 2": ""
   },
   {
     "Name": "Gothorita",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Psychic",
+    "Type 2": ""
   },
   {
     "Name": "Gothitelle",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Psychic",
+    "Type 2": ""
   },
   {
     "Name": "Solosis",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Psychic",
+    "Type 2": ""
   },
   {
     "Name": "Duosion",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Psychic",
+    "Type 2": ""
   },
   {
     "Name": "Reuniclus",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Psychic",
+    "Type 2": ""
   },
   {
     "Name": "Ducklett",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Water",
+    "Type 2": "Flying"
   },
   {
     "Name": "Swanna",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Water",
+    "Type 2": "Flying"
   },
   {
     "Name": "Vanillite",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Ice",
+    "Type 2": ""
   },
   {
     "Name": "Vanillish",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Ice",
+    "Type 2": ""
   },
   {
     "Name": "Vanilluxe",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Ice",
+    "Type 2": ""
   },
   {
     "Name": "Deerling",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Normal",
+    "Type 2": "Grass"
   },
   {
     "Name": "Sawsbuck",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Normal",
+    "Type 2": "Grass"
   },
   {
     "Name": "Emolga",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Electric",
+    "Type 2": "Flying"
   },
   {
     "Name": "Karrablast",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Bug",
+    "Type 2": ""
   },
   {
     "Name": "Escavalier",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Bug",
+    "Type 2": "Steel"
   },
   {
     "Name": "Foongus",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Grass",
+    "Type 2": "Poison"
   },
   {
     "Name": "Amoonguss",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Grass",
+    "Type 2": "Poison"
   },
   {
     "Name": "Frillish",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Water",
+    "Type 2": "Ghost"
   },
   {
     "Name": "Jellicent",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Water",
+    "Type 2": "Ghost"
   },
   {
     "Name": "Alomomola",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Water",
+    "Type 2": ""
   },
   {
     "Name": "Joltik",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Bug",
+    "Type 2": "Electric"
   },
   {
     "Name": "Galvantula",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Bug",
+    "Type 2": "Electric"
   },
   {
     "Name": "Ferroseed",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Grass",
+    "Type 2": "Steel"
   },
   {
     "Name": "Ferrothorn",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Grass",
+    "Type 2": "Steel"
   },
   {
     "Name": "Klink",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Steel",
+    "Type 2": ""
   },
   {
     "Name": "Klang",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Steel",
+    "Type 2": ""
   },
   {
     "Name": "Klinklang",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Steel",
+    "Type 2": ""
   },
   {
     "Name": "Tynamo",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Electric",
+    "Type 2": ""
   },
   {
     "Name": "Eelektrik",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Electric",
+    "Type 2": ""
   },
   {
     "Name": "Eelektross",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Electric",
+    "Type 2": ""
   },
   {
     "Name": "Elgyem",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Psychic",
+    "Type 2": ""
   },
   {
     "Name": "Beheeyem",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Psychic",
+    "Type 2": ""
   },
   {
     "Name": "Litwick",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Ghost",
+    "Type 2": "Fire"
   },
   {
     "Name": "Lampent",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Ghost",
+    "Type 2": "Fire"
   },
   {
     "Name": "Chandelure",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Ghost",
+    "Type 2": "Fire"
   },
   {
     "Name": "Axew",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Dragon",
+    "Type 2": ""
   },
   {
     "Name": "Fraxure",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Dragon",
+    "Type 2": ""
   },
   {
     "Name": "Haxorus",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Dragon",
+    "Type 2": ""
   },
   {
     "Name": "Cubchoo",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Ice",
+    "Type 2": ""
   },
   {
     "Name": "Beartic",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Ice",
+    "Type 2": ""
   },
   {
     "Name": "Cryogonal",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Ice",
+    "Type 2": ""
   },
   {
     "Name": "Shelmet",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Bug",
+    "Type 2": ""
   },
   {
     "Name": "Accelgor",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Bug",
+    "Type 2": ""
   },
   {
     "Name": "Stunfisk",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Ground",
+    "Type 2": "Electric"
   },
   {
     "Name": "Stunfisk",
-    "Form": "Galarian Stunfisk"
+    "Form": "Galarian Stunfisk",
+    "Type 1": "Ground",
+    "Type 2": "Steel"
   },
   {
     "Name": "Mienfoo",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Fighting",
+    "Type 2": ""
   },
   {
     "Name": "Mienshao",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Fighting",
+    "Type 2": ""
   },
   {
     "Name": "Druddigon",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Dragon",
+    "Type 2": ""
   },
   {
     "Name": "Golett",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Ground",
+    "Type 2": "Ghost"
   },
   {
     "Name": "Golurk",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Ground",
+    "Type 2": "Ghost"
   },
   {
     "Name": "Pawniard",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Dark",
+    "Type 2": "Steel"
   },
   {
     "Name": "Bisharp",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Dark",
+    "Type 2": "Steel"
   },
   {
     "Name": "Bouffalant",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Normal",
+    "Type 2": ""
   },
   {
     "Name": "Rufflet",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Normal",
+    "Type 2": "Flying"
   },
   {
     "Name": "Braviary",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Normal",
+    "Type 2": "Flying"
   },
   {
     "Name": "Braviary",
-    "Form": "Hisuian Braviary"
+    "Form": "Hisuian Braviary",
+    "Type 1": "Psychic",
+    "Type 2": "Flying"
   },
   {
     "Name": "Vullaby",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Dark",
+    "Type 2": "Flying"
   },
   {
     "Name": "Mandibuzz",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Dark",
+    "Type 2": "Flying"
   },
   {
     "Name": "Heatmor",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Fire",
+    "Type 2": ""
   },
   {
     "Name": "Durant",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Bug",
+    "Type 2": "Steel"
   },
   {
     "Name": "Deino",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Dark",
+    "Type 2": "Dragon"
   },
   {
     "Name": "Zweilous",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Dark",
+    "Type 2": "Dragon"
   },
   {
     "Name": "Hydreigon",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Dark",
+    "Type 2": "Dragon"
   },
   {
     "Name": "Larvesta",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Bug",
+    "Type 2": "Fire"
   },
   {
     "Name": "Volcarona",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Bug",
+    "Type 2": "Fire"
   },
   {
     "Name": "Cobalion",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Steel",
+    "Type 2": "Fighting"
   },
   {
     "Name": "Terrakion",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Rock",
+    "Type 2": "Fighting"
   },
   {
     "Name": "Virizion",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Grass",
+    "Type 2": "Fighting"
   },
   {
     "Name": "Tornadus",
-    "Form": "Incarnate Forme"
+    "Form": "Incarnate Forme",
+    "Type 1": "Flying",
+    "Type 2": ""
   },
   {
     "Name": "Tornadus",
-    "Form": "Therian Forme"
+    "Form": "Therian Forme",
+    "Type 1": "Flying",
+    "Type 2": ""
   },
   {
     "Name": "Thundurus",
-    "Form": "Incarnate Forme"
+    "Form": "Incarnate Forme",
+    "Type 1": "Electric",
+    "Type 2": "Flying"
   },
   {
     "Name": "Thundurus",
-    "Form": "Therian Forme"
+    "Form": "Therian Forme",
+    "Type 1": "Electric",
+    "Type 2": "Flying"
   },
   {
     "Name": "Reshiram",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Dragon",
+    "Type 2": "Fire"
   },
   {
     "Name": "Zekrom",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Dragon",
+    "Type 2": "Electric"
   },
   {
     "Name": "Landorus",
-    "Form": "Incarnate Forme"
+    "Form": "Incarnate Forme",
+    "Type 1": "Ground",
+    "Type 2": "Flying"
   },
   {
     "Name": "Landorus",
-    "Form": "Therian Forme"
+    "Form": "Therian Forme",
+    "Type 1": "Ground",
+    "Type 2": "Flying"
   },
   {
     "Name": "Kyurem",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Dragon",
+    "Type 2": "Ice"
   },
   {
     "Name": "Kyurem",
-    "Form": "White Kyurem"
+    "Form": "White Kyurem",
+    "Type 1": "Dragon",
+    "Type 2": "Ice"
   },
   {
     "Name": "Kyurem",
-    "Form": "Black Kyurem"
+    "Form": "Black Kyurem",
+    "Type 1": "Dragon",
+    "Type 2": "Ice"
   },
   {
     "Name": "Keldeo",
-    "Form": "Ordinary Form"
+    "Form": "Ordinary Form",
+    "Type 1": "Water",
+    "Type 2": "Fighting"
   },
   {
     "Name": "Keldeo",
-    "Form": "Resolute Form"
+    "Form": "Resolute Form",
+    "Type 1": "Water",
+    "Type 2": "Fighting"
   },
   {
     "Name": "Meloetta",
-    "Form": "Aria Forme"
+    "Form": "Aria Forme",
+    "Type 1": "Normal",
+    "Type 2": "Psychic"
   },
   {
     "Name": "Meloetta",
-    "Form": "Pirouette Forme"
+    "Form": "Pirouette Forme",
+    "Type 1": "Normal",
+    "Type 2": "Fighting"
   },
   {
     "Name": "Genesect",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Bug",
+    "Type 2": "Steel"
   },
   {
     "Name": "Chespin",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Grass",
+    "Type 2": ""
   },
   {
     "Name": "Quilladin",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Grass",
+    "Type 2": ""
   },
   {
     "Name": "Chesnaught",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Grass",
+    "Type 2": "Fighting"
   },
   {
     "Name": "Fennekin",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Fire",
+    "Type 2": ""
   },
   {
     "Name": "Braixen",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Fire",
+    "Type 2": ""
   },
   {
     "Name": "Delphox",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Fire",
+    "Type 2": "Psychic"
   },
   {
     "Name": "Froakie",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Water",
+    "Type 2": ""
   },
   {
     "Name": "Frogadier",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Water",
+    "Type 2": ""
   },
   {
     "Name": "Greninja",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Water",
+    "Type 2": "Dark"
   },
   {
     "Name": "Greninja",
-    "Form": "Ash-Greninja"
+    "Form": "Ash-Greninja",
+    "Type 1": "Water",
+    "Type 2": "Dark"
   },
   {
     "Name": "Bunnelby",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Normal",
+    "Type 2": ""
   },
   {
     "Name": "Diggersby",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Normal",
+    "Type 2": "Ground"
   },
   {
     "Name": "Fletchling",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Normal",
+    "Type 2": "Flying"
   },
   {
     "Name": "Fletchinder",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Fire",
+    "Type 2": "Flying"
   },
   {
     "Name": "Talonflame",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Fire",
+    "Type 2": "Flying"
   },
   {
     "Name": "Scatterbug",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Bug",
+    "Type 2": ""
   },
   {
     "Name": "Spewpa",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Bug",
+    "Type 2": ""
   },
   {
     "Name": "Vivillon",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Bug",
+    "Type 2": "Flying"
   },
   {
     "Name": "Litleo",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Fire",
+    "Type 2": "Normal"
   },
   {
     "Name": "Pyroar",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Fire",
+    "Type 2": "Normal"
   },
   {
     "Name": "Flabébé",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Fairy",
+    "Type 2": ""
   },
   {
     "Name": "Floette",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Fairy",
+    "Type 2": ""
   },
   {
     "Name": "Florges",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Fairy",
+    "Type 2": ""
   },
   {
     "Name": "Skiddo",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Grass",
+    "Type 2": ""
   },
   {
     "Name": "Gogoat",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Grass",
+    "Type 2": ""
   },
   {
     "Name": "Pancham",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Fighting",
+    "Type 2": ""
   },
   {
     "Name": "Pangoro",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Fighting",
+    "Type 2": "Dark"
   },
   {
     "Name": "Furfrou",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Normal",
+    "Type 2": ""
   },
   {
     "Name": "Espurr",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Psychic",
+    "Type 2": ""
   },
   {
     "Name": "Meowstic",
-    "Form": "Male"
+    "Form": "Male",
+    "Type 1": "Psychic",
+    "Type 2": ""
   },
   {
     "Name": "Meowstic",
-    "Form": "Female"
+    "Form": "Female",
+    "Type 1": "Psychic",
+    "Type 2": ""
   },
   {
     "Name": "Honedge",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Steel",
+    "Type 2": "Ghost"
   },
   {
     "Name": "Doublade",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Steel",
+    "Type 2": "Ghost"
   },
   {
     "Name": "Aegislash",
-    "Form": "Shield Forme"
+    "Form": "Shield Forme",
+    "Type 1": "Steel",
+    "Type 2": "Ghost"
   },
   {
     "Name": "Aegislash",
-    "Form": "Blade Forme"
+    "Form": "Blade Forme",
+    "Type 1": "Steel",
+    "Type 2": "Ghost"
   },
   {
     "Name": "Spritzee",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Fairy",
+    "Type 2": ""
   },
   {
     "Name": "Aromatisse",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Fairy",
+    "Type 2": ""
   },
   {
     "Name": "Swirlix",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Fairy",
+    "Type 2": ""
   },
   {
     "Name": "Slurpuff",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Fairy",
+    "Type 2": ""
   },
   {
     "Name": "Inkay",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Dark",
+    "Type 2": "Psychic"
   },
   {
     "Name": "Malamar",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Dark",
+    "Type 2": "Psychic"
   },
   {
     "Name": "Binacle",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Rock",
+    "Type 2": "Water"
   },
   {
     "Name": "Barbaracle",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Rock",
+    "Type 2": "Water"
   },
   {
     "Name": "Skrelp",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Poison",
+    "Type 2": "Water"
   },
   {
     "Name": "Dragalge",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Poison",
+    "Type 2": "Dragon"
   },
   {
     "Name": "Clauncher",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Water",
+    "Type 2": ""
   },
   {
     "Name": "Clawitzer",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Water",
+    "Type 2": ""
   },
   {
     "Name": "Helioptile",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Electric",
+    "Type 2": "Normal"
   },
   {
     "Name": "Heliolisk",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Electric",
+    "Type 2": "Normal"
   },
   {
     "Name": "Tyrunt",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Rock",
+    "Type 2": "Dragon"
   },
   {
     "Name": "Tyrantrum",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Rock",
+    "Type 2": "Dragon"
   },
   {
     "Name": "Amaura",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Rock",
+    "Type 2": "Ice"
   },
   {
     "Name": "Aurorus",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Rock",
+    "Type 2": "Ice"
   },
   {
     "Name": "Sylveon",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Fairy",
+    "Type 2": ""
   },
   {
     "Name": "Hawlucha",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Fighting",
+    "Type 2": "Flying"
   },
   {
     "Name": "Dedenne",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Electric",
+    "Type 2": "Fairy"
   },
   {
     "Name": "Carbink",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Rock",
+    "Type 2": "Fairy"
   },
   {
     "Name": "Goomy",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Dragon",
+    "Type 2": ""
   },
   {
     "Name": "Sliggoo",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Dragon",
+    "Type 2": ""
   },
   {
     "Name": "Sliggoo",
-    "Form": "Hisuian Sliggoo"
+    "Form": "Hisuian Sliggoo",
+    "Type 1": "Steel",
+    "Type 2": "Dragon"
   },
   {
     "Name": "Goodra",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Dragon",
+    "Type 2": ""
   },
   {
     "Name": "Goodra",
-    "Form": "Hisuian Goodra"
+    "Form": "Hisuian Goodra",
+    "Type 1": "Steel",
+    "Type 2": "Dragon"
   },
   {
     "Name": "Klefki",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Steel",
+    "Type 2": "Fairy"
   },
   {
     "Name": "Phantump",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Ghost",
+    "Type 2": "Grass"
   },
   {
     "Name": "Trevenant",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Ghost",
+    "Type 2": "Grass"
   },
   {
     "Name": "Pumpkaboo",
-    "Form": "Average Size"
+    "Form": "Average Size",
+    "Type 1": "Ghost",
+    "Type 2": "Grass"
   },
   {
     "Name": "Pumpkaboo",
-    "Form": "Small Size"
+    "Form": "Small Size",
+    "Type 1": "Ghost",
+    "Type 2": "Grass"
   },
   {
     "Name": "Pumpkaboo",
-    "Form": "Large Size"
+    "Form": "Large Size",
+    "Type 1": "Ghost",
+    "Type 2": "Grass"
   },
   {
     "Name": "Pumpkaboo",
-    "Form": "Super Size"
+    "Form": "Super Size",
+    "Type 1": "Ghost",
+    "Type 2": "Grass"
   },
   {
     "Name": "Gourgeist",
-    "Form": "Average Size"
+    "Form": "Average Size",
+    "Type 1": "Ghost",
+    "Type 2": "Grass"
   },
   {
     "Name": "Gourgeist",
-    "Form": "Small Size"
+    "Form": "Small Size",
+    "Type 1": "Ghost",
+    "Type 2": "Grass"
   },
   {
     "Name": "Gourgeist",
-    "Form": "Large Size"
+    "Form": "Large Size",
+    "Type 1": "Ghost",
+    "Type 2": "Grass"
   },
   {
     "Name": "Gourgeist",
-    "Form": "Super Size"
+    "Form": "Super Size",
+    "Type 1": "Ghost",
+    "Type 2": "Grass"
   },
   {
     "Name": "Bergmite",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Ice",
+    "Type 2": ""
   },
   {
     "Name": "Avalugg",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Ice",
+    "Type 2": ""
   },
   {
     "Name": "Avalugg",
-    "Form": "Hisuian Avalugg"
+    "Form": "Hisuian Avalugg",
+    "Type 1": "Ice",
+    "Type 2": "Rock"
   },
   {
     "Name": "Noibat",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Flying",
+    "Type 2": "Dragon"
   },
   {
     "Name": "Noivern",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Flying",
+    "Type 2": "Dragon"
   },
   {
     "Name": "Xerneas",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Fairy",
+    "Type 2": ""
   },
   {
     "Name": "Yveltal",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Dark",
+    "Type 2": "Flying"
   },
   {
     "Name": "Zygarde",
-    "Form": "50% Forme"
+    "Form": "50% Forme",
+    "Type 1": "Dragon",
+    "Type 2": "Ground"
   },
   {
     "Name": "Zygarde",
-    "Form": "10% Forme"
+    "Form": "10% Forme",
+    "Type 1": "Dragon",
+    "Type 2": "Ground"
   },
   {
     "Name": "Zygarde",
-    "Form": "Complete Forme"
+    "Form": "Complete Forme",
+    "Type 1": "Dragon",
+    "Type 2": "Ground"
   },
   {
     "Name": "Diancie",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Rock",
+    "Type 2": "Fairy"
   },
   {
     "Name": "Diancie",
-    "Form": "Mega Diancie"
+    "Form": "Mega Diancie",
+    "Type 1": "Rock",
+    "Type 2": "Fairy"
   },
   {
     "Name": "Hoopa",
-    "Form": "Hoopa Confined"
+    "Form": "Hoopa Confined",
+    "Type 1": "Psychic",
+    "Type 2": "Ghost"
   },
   {
     "Name": "Hoopa",
-    "Form": "Hoopa Unbound"
+    "Form": "Hoopa Unbound",
+    "Type 1": "Psychic",
+    "Type 2": "Dark"
   },
   {
     "Name": "Volcanion",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Fire",
+    "Type 2": "Water"
   },
   {
     "Name": "Rowlet",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Grass",
+    "Type 2": "Flying"
   },
   {
     "Name": "Dartrix",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Grass",
+    "Type 2": "Flying"
   },
   {
     "Name": "Decidueye",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Grass",
+    "Type 2": "Ghost"
   },
   {
     "Name": "Decidueye",
-    "Form": "Hisuian Decidueye"
+    "Form": "Hisuian Decidueye",
+    "Type 1": "Grass",
+    "Type 2": "Fighting"
   },
   {
     "Name": "Litten",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Fire",
+    "Type 2": ""
   },
   {
     "Name": "Torracat",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Fire",
+    "Type 2": ""
   },
   {
     "Name": "Incineroar",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Fire",
+    "Type 2": "Dark"
   },
   {
     "Name": "Popplio",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Water",
+    "Type 2": ""
   },
   {
     "Name": "Brionne",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Water",
+    "Type 2": ""
   },
   {
     "Name": "Primarina",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Water",
+    "Type 2": "Fairy"
   },
   {
     "Name": "Pikipek",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Normal",
+    "Type 2": "Flying"
   },
   {
     "Name": "Trumbeak",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Normal",
+    "Type 2": "Flying"
   },
   {
     "Name": "Toucannon",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Normal",
+    "Type 2": "Flying"
   },
   {
     "Name": "Yungoos",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Normal",
+    "Type 2": ""
   },
   {
     "Name": "Gumshoos",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Normal",
+    "Type 2": ""
   },
   {
     "Name": "Grubbin",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Bug",
+    "Type 2": ""
   },
   {
     "Name": "Charjabug",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Bug",
+    "Type 2": "Electric"
   },
   {
     "Name": "Vikavolt",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Bug",
+    "Type 2": "Electric"
   },
   {
     "Name": "Crabrawler",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Fighting",
+    "Type 2": ""
   },
   {
     "Name": "Crabominable",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Fighting",
+    "Type 2": "Ice"
   },
   {
     "Name": "Oricorio",
-    "Form": "Baile Style"
+    "Form": "Baile Style",
+    "Type 1": "Fire",
+    "Type 2": "Flying"
   },
   {
     "Name": "Oricorio",
-    "Form": "Pom-Pom Style"
+    "Form": "Pom-Pom Style",
+    "Type 1": "Electric",
+    "Type 2": "Flying"
   },
   {
     "Name": "Oricorio",
-    "Form": "Pa'u Style"
+    "Form": "Pa'u Style",
+    "Type 1": "Psychic",
+    "Type 2": "Flying"
   },
   {
     "Name": "Oricorio",
-    "Form": "Sensu Style"
+    "Form": "Sensu Style",
+    "Type 1": "Ghost",
+    "Type 2": "Flying"
   },
   {
     "Name": "Cutiefly",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Bug",
+    "Type 2": "Fairy"
   },
   {
     "Name": "Ribombee",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Bug",
+    "Type 2": "Fairy"
   },
   {
     "Name": "Rockruff",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Rock",
+    "Type 2": ""
   },
   {
     "Name": "Rockruff",
-    "Form": "Own Tempo Rockruff"
+    "Form": "Own Tempo Rockruff",
+    "Type 1": "Rock",
+    "Type 2": ""
   },
   {
     "Name": "Lycanroc",
-    "Form": "Midday Form"
+    "Form": "Midday Form",
+    "Type 1": "Rock",
+    "Type 2": ""
   },
   {
     "Name": "Lycanroc",
-    "Form": "Midnight Form"
+    "Form": "Midnight Form",
+    "Type 1": "Rock",
+    "Type 2": ""
   },
   {
     "Name": "Lycanroc",
-    "Form": "Dusk Form"
+    "Form": "Dusk Form",
+    "Type 1": "Rock",
+    "Type 2": ""
   },
   {
     "Name": "Wishiwashi",
-    "Form": "Solo Form"
+    "Form": "Solo Form",
+    "Type 1": "Water",
+    "Type 2": ""
   },
   {
     "Name": "Wishiwashi",
-    "Form": "School Form"
+    "Form": "School Form",
+    "Type 1": "Water",
+    "Type 2": ""
   },
   {
     "Name": "Mareanie",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Poison",
+    "Type 2": "Water"
   },
   {
     "Name": "Toxapex",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Poison",
+    "Type 2": "Water"
   },
   {
     "Name": "Mudbray",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Ground",
+    "Type 2": ""
   },
   {
     "Name": "Mudsdale",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Ground",
+    "Type 2": ""
   },
   {
     "Name": "Dewpider",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Water",
+    "Type 2": "Bug"
   },
   {
     "Name": "Araquanid",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Water",
+    "Type 2": "Bug"
   },
   {
     "Name": "Fomantis",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Grass",
+    "Type 2": ""
   },
   {
     "Name": "Lurantis",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Grass",
+    "Type 2": ""
   },
   {
     "Name": "Morelull",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Grass",
+    "Type 2": "Fairy"
   },
   {
     "Name": "Shiinotic",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Grass",
+    "Type 2": "Fairy"
   },
   {
     "Name": "Salandit",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Poison",
+    "Type 2": "Fire"
   },
   {
     "Name": "Salazzle",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Poison",
+    "Type 2": "Fire"
   },
   {
     "Name": "Stufful",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Normal",
+    "Type 2": "Fighting"
   },
   {
     "Name": "Bewear",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Normal",
+    "Type 2": "Fighting"
   },
   {
     "Name": "Bounsweet",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Grass",
+    "Type 2": ""
   },
   {
     "Name": "Steenee",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Grass",
+    "Type 2": ""
   },
   {
     "Name": "Tsareena",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Grass",
+    "Type 2": ""
   },
   {
     "Name": "Comfey",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Fairy",
+    "Type 2": ""
   },
   {
     "Name": "Oranguru",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Normal",
+    "Type 2": "Psychic"
   },
   {
     "Name": "Passimian",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Fighting",
+    "Type 2": ""
   },
   {
     "Name": "Wimpod",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Bug",
+    "Type 2": "Water"
   },
   {
     "Name": "Golisopod",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Bug",
+    "Type 2": "Water"
   },
   {
     "Name": "Sandygast",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Ghost",
+    "Type 2": "Ground"
   },
   {
     "Name": "Palossand",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Ghost",
+    "Type 2": "Ground"
   },
   {
     "Name": "Pyukumuku",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Water",
+    "Type 2": ""
   },
   {
     "Name": "Type: Null",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Normal",
+    "Type 2": ""
   },
   {
     "Name": "Silvally",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Normal",
+    "Type 2": ""
   },
   {
     "Name": "Minior",
-    "Form": "Meteor Form"
+    "Form": "Meteor Form",
+    "Type 1": "Rock",
+    "Type 2": "Flying"
   },
   {
     "Name": "Minior",
-    "Form": "Core Form"
+    "Form": "Core Form",
+    "Type 1": "Rock",
+    "Type 2": "Flying"
   },
   {
     "Name": "Komala",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Normal",
+    "Type 2": ""
   },
   {
     "Name": "Turtonator",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Fire",
+    "Type 2": "Dragon"
   },
   {
     "Name": "Togedemaru",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Electric",
+    "Type 2": "Steel"
   },
   {
     "Name": "Mimikyu",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Ghost",
+    "Type 2": "Fairy"
   },
   {
     "Name": "Bruxish",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Water",
+    "Type 2": "Psychic"
   },
   {
     "Name": "Drampa",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Normal",
+    "Type 2": "Dragon"
   },
   {
     "Name": "Dhelmise",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Ghost",
+    "Type 2": "Grass"
   },
   {
     "Name": "Jangmo-o",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Dragon",
+    "Type 2": ""
   },
   {
     "Name": "Hakamo-o",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Dragon",
+    "Type 2": "Fighting"
   },
   {
     "Name": "Kommo-o",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Dragon",
+    "Type 2": "Fighting"
   },
   {
     "Name": "Tapu Koko",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Electric",
+    "Type 2": "Fairy"
   },
   {
     "Name": "Tapu Lele",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Psychic",
+    "Type 2": "Fairy"
   },
   {
     "Name": "Tapu Bulu",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Grass",
+    "Type 2": "Fairy"
   },
   {
     "Name": "Tapu Fini",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Water",
+    "Type 2": "Fairy"
   },
   {
     "Name": "Cosmog",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Psychic",
+    "Type 2": ""
   },
   {
     "Name": "Cosmoem",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Psychic",
+    "Type 2": ""
   },
   {
     "Name": "Solgaleo",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Psychic",
+    "Type 2": "Steel"
   },
   {
     "Name": "Lunala",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Psychic",
+    "Type 2": "Ghost"
   },
   {
     "Name": "Nihilego",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Rock",
+    "Type 2": "Poison"
   },
   {
     "Name": "Buzzwole",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Bug",
+    "Type 2": "Fighting"
   },
   {
     "Name": "Pheromosa",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Bug",
+    "Type 2": "Fighting"
   },
   {
     "Name": "Xurkitree",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Electric",
+    "Type 2": ""
   },
   {
     "Name": "Celesteela",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Steel",
+    "Type 2": "Flying"
   },
   {
     "Name": "Kartana",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Grass",
+    "Type 2": "Steel"
   },
   {
     "Name": "Guzzlord",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Dark",
+    "Type 2": "Dragon"
   },
   {
     "Name": "Necrozma",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Psychic",
+    "Type 2": ""
   },
   {
     "Name": "Necrozma",
-    "Form": "Dusk Mane Necrozma"
+    "Form": "Dusk Mane Necrozma",
+    "Type 1": "Psychic",
+    "Type 2": "Steel"
   },
   {
     "Name": "Necrozma",
-    "Form": "Dawn Wings Necrozma"
+    "Form": "Dawn Wings Necrozma",
+    "Type 1": "Psychic",
+    "Type 2": "Ghost"
   },
   {
     "Name": "Necrozma",
-    "Form": "Ultra Necrozma"
+    "Form": "Ultra Necrozma",
+    "Type 1": "Psychic",
+    "Type 2": "Dragon"
   },
   {
     "Name": "Magearna",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Steel",
+    "Type 2": "Fairy"
   },
   {
     "Name": "Marshadow",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Fighting",
+    "Type 2": "Ghost"
   },
   {
     "Name": "Poipole",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Poison",
+    "Type 2": ""
   },
   {
     "Name": "Naganadel",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Poison",
+    "Type 2": "Dragon"
   },
   {
     "Name": "Stakataka",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Rock",
+    "Type 2": "Steel"
   },
   {
     "Name": "Blacephalon",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Fire",
+    "Type 2": "Ghost"
   },
   {
     "Name": "Zeraora",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Electric",
+    "Type 2": ""
   },
   {
     "Name": "Meltan",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Steel",
+    "Type 2": ""
   },
   {
     "Name": "Melmetal",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Steel",
+    "Type 2": ""
   },
   {
     "Name": "Grookey",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Grass",
+    "Type 2": ""
   },
   {
     "Name": "Thwackey",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Grass",
+    "Type 2": ""
   },
   {
     "Name": "Rillaboom",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Grass",
+    "Type 2": ""
   },
   {
     "Name": "Scorbunny",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Fire",
+    "Type 2": ""
   },
   {
     "Name": "Raboot",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Fire",
+    "Type 2": ""
   },
   {
     "Name": "Cinderace",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Fire",
+    "Type 2": ""
   },
   {
     "Name": "Sobble",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Water",
+    "Type 2": ""
   },
   {
     "Name": "Drizzile",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Water",
+    "Type 2": ""
   },
   {
     "Name": "Inteleon",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Water",
+    "Type 2": ""
   },
   {
     "Name": "Skwovet",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Normal",
+    "Type 2": ""
   },
   {
     "Name": "Greedent",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Normal",
+    "Type 2": ""
   },
   {
     "Name": "Rookidee",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Flying",
+    "Type 2": ""
   },
   {
     "Name": "Corvisquire",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Flying",
+    "Type 2": ""
   },
   {
     "Name": "Corviknight",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Flying",
+    "Type 2": "Steel"
   },
   {
     "Name": "Blipbug",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Bug",
+    "Type 2": ""
   },
   {
     "Name": "Dottler",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Bug",
+    "Type 2": "Psychic"
   },
   {
     "Name": "Orbeetle",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Bug",
+    "Type 2": "Psychic"
   },
   {
     "Name": "Nickit",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Dark",
+    "Type 2": ""
   },
   {
     "Name": "Thievul",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Dark",
+    "Type 2": ""
   },
   {
     "Name": "Gossifleur",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Grass",
+    "Type 2": ""
   },
   {
     "Name": "Eldegoss",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Grass",
+    "Type 2": ""
   },
   {
     "Name": "Wooloo",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Normal",
+    "Type 2": ""
   },
   {
     "Name": "Dubwool",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Normal",
+    "Type 2": ""
   },
   {
     "Name": "Chewtle",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Water",
+    "Type 2": ""
   },
   {
     "Name": "Drednaw",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Water",
+    "Type 2": "Rock"
   },
   {
     "Name": "Yamper",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Electric",
+    "Type 2": ""
   },
   {
     "Name": "Boltund",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Electric",
+    "Type 2": ""
   },
   {
     "Name": "Rolycoly",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Rock",
+    "Type 2": ""
   },
   {
     "Name": "Carkol",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Rock",
+    "Type 2": "Fire"
   },
   {
     "Name": "Coalossal",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Rock",
+    "Type 2": "Fire"
   },
   {
     "Name": "Applin",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Grass",
+    "Type 2": "Dragon"
   },
   {
     "Name": "Flapple",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Grass",
+    "Type 2": "Dragon"
   },
   {
     "Name": "Appletun",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Grass",
+    "Type 2": "Dragon"
   },
   {
     "Name": "Silicobra",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Ground",
+    "Type 2": ""
   },
   {
     "Name": "Sandaconda",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Ground",
+    "Type 2": ""
   },
   {
     "Name": "Cramorant",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Flying",
+    "Type 2": "Water"
   },
   {
     "Name": "Arrokuda",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Water",
+    "Type 2": ""
   },
   {
     "Name": "Barraskewda",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Water",
+    "Type 2": ""
   },
   {
     "Name": "Toxel",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Electric",
+    "Type 2": "Poison"
   },
   {
     "Name": "Toxtricity",
-    "Form": "Amped Form"
+    "Form": "Amped Form",
+    "Type 1": "Electric",
+    "Type 2": "Poison"
   },
   {
     "Name": "Toxtricity",
-    "Form": "Low Key Form"
+    "Form": "Low Key Form",
+    "Type 1": "Electric",
+    "Type 2": "Poison"
   },
   {
     "Name": "Sizzlipede",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Fire",
+    "Type 2": "Bug"
   },
   {
     "Name": "Centiskorch",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Fire",
+    "Type 2": "Bug"
   },
   {
     "Name": "Clobbopus",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Fighting",
+    "Type 2": ""
   },
   {
     "Name": "Grapploct",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Fighting",
+    "Type 2": ""
   },
   {
     "Name": "Sinistea",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Ghost",
+    "Type 2": ""
   },
   {
     "Name": "Polteageist",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Ghost",
+    "Type 2": ""
   },
   {
     "Name": "Hatenna",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Psychic",
+    "Type 2": ""
   },
   {
     "Name": "Hattrem",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Psychic",
+    "Type 2": ""
   },
   {
     "Name": "Hatterene",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Psychic",
+    "Type 2": "Fairy"
   },
   {
     "Name": "Impidimp",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Dark",
+    "Type 2": "Fairy"
   },
   {
     "Name": "Morgrem",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Dark",
+    "Type 2": "Fairy"
   },
   {
     "Name": "Grimmsnarl",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Dark",
+    "Type 2": "Fairy"
   },
   {
     "Name": "Obstagoon",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Dark",
+    "Type 2": "Normal"
   },
   {
     "Name": "Perrserker",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Steel",
+    "Type 2": ""
   },
   {
     "Name": "Cursola",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Ghost",
+    "Type 2": ""
   },
   {
     "Name": "Sirfetch'd",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Fighting",
+    "Type 2": ""
   },
   {
     "Name": "Mr. Rime",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Ice",
+    "Type 2": "Psychic"
   },
   {
     "Name": "Runerigus",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Ground",
+    "Type 2": "Ghost"
   },
   {
     "Name": "Milcery",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Fairy",
+    "Type 2": ""
   },
   {
     "Name": "Alcremie",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Fairy",
+    "Type 2": ""
   },
   {
     "Name": "Falinks",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Fighting",
+    "Type 2": ""
   },
   {
     "Name": "Pincurchin",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Electric",
+    "Type 2": ""
   },
   {
     "Name": "Snom",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Ice",
+    "Type 2": "Bug"
   },
   {
     "Name": "Frosmoth",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Ice",
+    "Type 2": "Bug"
   },
   {
     "Name": "Stonjourner",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Rock",
+    "Type 2": ""
   },
   {
     "Name": "Eiscue",
-    "Form": "Ice Face"
+    "Form": "Ice Face",
+    "Type 1": "Ice",
+    "Type 2": ""
   },
   {
     "Name": "Eiscue",
-    "Form": "Noice Face"
+    "Form": "Noice Face",
+    "Type 1": "Ice",
+    "Type 2": ""
   },
   {
     "Name": "Indeedee",
-    "Form": "Male"
+    "Form": "Male",
+    "Type 1": "Psychic",
+    "Type 2": "Normal"
   },
   {
     "Name": "Indeedee",
-    "Form": "Female"
+    "Form": "Female",
+    "Type 1": "Psychic",
+    "Type 2": "Normal"
   },
   {
     "Name": "Morpeko",
-    "Form": "Full Belly Mode"
+    "Form": "Full Belly Mode",
+    "Type 1": "Electric",
+    "Type 2": "Dark"
   },
   {
     "Name": "Morpeko",
-    "Form": "Hangry Mode"
+    "Form": "Hangry Mode",
+    "Type 1": "Electric",
+    "Type 2": "Dark"
   },
   {
     "Name": "Cufant",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Steel",
+    "Type 2": ""
   },
   {
     "Name": "Copperajah",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Steel",
+    "Type 2": ""
   },
   {
     "Name": "Dracozolt",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Electric",
+    "Type 2": "Dragon"
   },
   {
     "Name": "Arctozolt",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Electric",
+    "Type 2": "Ice"
   },
   {
     "Name": "Dracovish",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Water",
+    "Type 2": "Dragon"
   },
   {
     "Name": "Arctovish",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Water",
+    "Type 2": "Ice"
   },
   {
     "Name": "Duraludon",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Steel",
+    "Type 2": "Dragon"
   },
   {
     "Name": "Dreepy",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Dragon",
+    "Type 2": "Ghost"
   },
   {
     "Name": "Drakloak",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Dragon",
+    "Type 2": "Ghost"
   },
   {
     "Name": "Dragapult",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Dragon",
+    "Type 2": "Ghost"
   },
   {
     "Name": "Zacian",
-    "Form": "Hero of Many Battles"
+    "Form": "Hero of Many Battles",
+    "Type 1": "Fairy",
+    "Type 2": ""
   },
   {
     "Name": "Zacian",
-    "Form": "Crowned Sword"
+    "Form": "Crowned Sword",
+    "Type 1": "Fairy",
+    "Type 2": "Steel"
   },
   {
     "Name": "Zamazenta",
-    "Form": "Hero of Many Battles"
+    "Form": "Hero of Many Battles",
+    "Type 1": "Fighting",
+    "Type 2": ""
   },
   {
     "Name": "Zamazenta",
-    "Form": "Crowned Shield"
+    "Form": "Crowned Shield",
+    "Type 1": "Fighting",
+    "Type 2": "Steel"
   },
   {
     "Name": "Eternatus",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Poison",
+    "Type 2": "Dragon"
   },
   {
     "Name": "Eternatus",
-    "Form": "Eternamax"
+    "Form": "Eternamax",
+    "Type 1": "Poison",
+    "Type 2": "Dragon"
   },
   {
     "Name": "Kubfu",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Fighting",
+    "Type 2": ""
   },
   {
     "Name": "Urshifu",
-    "Form": "Single Strike Style"
+    "Form": "Single Strike Style",
+    "Type 1": "Fighting",
+    "Type 2": "Dark"
   },
   {
     "Name": "Urshifu",
-    "Form": "Rapid Strike Style"
+    "Form": "Rapid Strike Style",
+    "Type 1": "Fighting",
+    "Type 2": "Water"
   },
   {
     "Name": "Zarude",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Dark",
+    "Type 2": "Grass"
   },
   {
     "Name": "Regieleki",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Electric",
+    "Type 2": ""
   },
   {
     "Name": "Regidrago",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Dragon",
+    "Type 2": ""
   },
   {
     "Name": "Glastrier",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Ice",
+    "Type 2": ""
   },
   {
     "Name": "Spectrier",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Ghost",
+    "Type 2": ""
   },
   {
     "Name": "Calyrex",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Psychic",
+    "Type 2": "Grass"
   },
   {
     "Name": "Calyrex",
-    "Form": "Ice Rider"
+    "Form": "Ice Rider",
+    "Type 1": "Psychic",
+    "Type 2": "Ice"
   },
   {
     "Name": "Calyrex",
-    "Form": "Shadow Rider"
+    "Form": "Shadow Rider",
+    "Type 1": "Psychic",
+    "Type 2": "Ghost"
   },
   {
     "Name": "Wyrdeer",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Normal",
+    "Type 2": "Psychic"
   },
   {
     "Name": "Kleavor",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Bug",
+    "Type 2": "Rock"
   },
   {
     "Name": "Ursaluna",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Ground",
+    "Type 2": "Normal"
   },
   {
     "Name": "Ursaluna",
-    "Form": "Bloodmoon"
+    "Form": "Bloodmoon",
+    "Type 1": "Ground",
+    "Type 2": "Normal"
   },
   {
     "Name": "Basculegion",
-    "Form": "Male"
+    "Form": "Male",
+    "Type 1": "Water",
+    "Type 2": "Ghost"
   },
   {
     "Name": "Basculegion",
-    "Form": "Female"
+    "Form": "Female",
+    "Type 1": "Water",
+    "Type 2": "Ghost"
   },
   {
     "Name": "Sneasler",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Fighting",
+    "Type 2": "Poison"
   },
   {
     "Name": "Overqwil",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Dark",
+    "Type 2": "Poison"
   },
   {
     "Name": "Enamorus",
-    "Form": "Incarnate Forme"
+    "Form": "Incarnate Forme",
+    "Type 1": "Fairy",
+    "Type 2": "Flying"
   },
   {
     "Name": "Enamorus",
-    "Form": "Therian Forme"
+    "Form": "Therian Forme",
+    "Type 1": "Fairy",
+    "Type 2": "Flying"
   },
   {
     "Name": "Sprigatito",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Grass",
+    "Type 2": ""
   },
   {
     "Name": "Floragato",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Grass",
+    "Type 2": ""
   },
   {
     "Name": "Meowscarada",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Grass",
+    "Type 2": "Dark"
   },
   {
     "Name": "Fuecoco",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Fire",
+    "Type 2": ""
   },
   {
     "Name": "Crocalor",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Fire",
+    "Type 2": ""
   },
   {
     "Name": "Skeledirge",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Fire",
+    "Type 2": "Ghost"
   },
   {
     "Name": "Quaxly",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Water",
+    "Type 2": ""
   },
   {
     "Name": "Quaxwell",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Water",
+    "Type 2": ""
   },
   {
     "Name": "Quaquaval",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Water",
+    "Type 2": "Fighting"
   },
   {
     "Name": "Lechonk",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Normal",
+    "Type 2": ""
   },
   {
     "Name": "Oinkologne",
-    "Form": "Male"
+    "Form": "Male",
+    "Type 1": "Normal",
+    "Type 2": ""
   },
   {
     "Name": "Oinkologne",
-    "Form": "Female"
+    "Form": "Female",
+    "Type 1": "Normal",
+    "Type 2": ""
   },
   {
     "Name": "Tarountula",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Bug",
+    "Type 2": ""
   },
   {
     "Name": "Spidops",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Bug",
+    "Type 2": ""
   },
   {
     "Name": "Nymble",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Bug",
+    "Type 2": ""
   },
   {
     "Name": "Lokix",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Bug",
+    "Type 2": "Dark"
   },
   {
     "Name": "Pawmi",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Electric",
+    "Type 2": ""
   },
   {
     "Name": "Pawmo",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Electric",
+    "Type 2": "Fighting"
   },
   {
     "Name": "Pawmot",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Electric",
+    "Type 2": "Fighting"
   },
   {
     "Name": "Tandemaus",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Normal",
+    "Type 2": ""
   },
   {
     "Name": "Maushold",
-    "Form": "Family of Four"
+    "Form": "Family of Four",
+    "Type 1": "Normal",
+    "Type 2": ""
   },
   {
     "Name": "Maushold",
-    "Form": "Family of Three"
+    "Form": "Family of Three",
+    "Type 1": "Normal",
+    "Type 2": ""
   },
   {
     "Name": "Fidough",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Fairy",
+    "Type 2": ""
   },
   {
     "Name": "Dachsbun",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Fairy",
+    "Type 2": ""
   },
   {
     "Name": "Smoliv",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Grass",
+    "Type 2": "Normal"
   },
   {
     "Name": "Dolliv",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Grass",
+    "Type 2": "Normal"
   },
   {
     "Name": "Arboliva",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Grass",
+    "Type 2": "Normal"
   },
   {
     "Name": "Squawkabilly",
-    "Form": "Green Plumage"
+    "Form": "Green Plumage",
+    "Type 1": "Normal",
+    "Type 2": "Flying"
   },
   {
     "Name": "Squawkabilly",
-    "Form": "Blue Plumage"
+    "Form": "Blue Plumage",
+    "Type 1": "Normal",
+    "Type 2": "Flying"
   },
   {
     "Name": "Squawkabilly",
-    "Form": "Yellow Plumage"
+    "Form": "Yellow Plumage",
+    "Type 1": "Normal",
+    "Type 2": "Flying"
   },
   {
     "Name": "Squawkabilly",
-    "Form": "White Plumage"
+    "Form": "White Plumage",
+    "Type 1": "Normal",
+    "Type 2": "Flying"
   },
   {
     "Name": "Nacli",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Rock",
+    "Type 2": ""
   },
   {
     "Name": "Naclstack",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Rock",
+    "Type 2": ""
   },
   {
     "Name": "Garganacl",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Rock",
+    "Type 2": ""
   },
   {
     "Name": "Charcadet",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Fire",
+    "Type 2": ""
   },
   {
     "Name": "Armarouge",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Fire",
+    "Type 2": "Psychic"
   },
   {
     "Name": "Ceruledge",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Fire",
+    "Type 2": "Ghost"
   },
   {
     "Name": "Tadbulb",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Electric",
+    "Type 2": ""
   },
   {
     "Name": "Bellibolt",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Electric",
+    "Type 2": ""
   },
   {
     "Name": "Wattrel",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Electric",
+    "Type 2": "Flying"
   },
   {
     "Name": "Kilowattrel",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Electric",
+    "Type 2": "Flying"
   },
   {
     "Name": "Maschiff",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Dark",
+    "Type 2": ""
   },
   {
     "Name": "Mabosstiff",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Dark",
+    "Type 2": ""
   },
   {
     "Name": "Shroodle",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Poison",
+    "Type 2": "Normal"
   },
   {
     "Name": "Grafaiai",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Poison",
+    "Type 2": "Normal"
   },
   {
     "Name": "Bramblin",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Grass",
+    "Type 2": "Ghost"
   },
   {
     "Name": "Brambleghast",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Grass",
+    "Type 2": "Ghost"
   },
   {
     "Name": "Toedscool",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Ground",
+    "Type 2": "Grass"
   },
   {
     "Name": "Toedscruel",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Ground",
+    "Type 2": "Grass"
   },
   {
     "Name": "Klawf",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Rock",
+    "Type 2": ""
   },
   {
     "Name": "Capsakid",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Grass",
+    "Type 2": ""
   },
   {
     "Name": "Scovillain",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Grass",
+    "Type 2": "Fire"
   },
   {
     "Name": "Rellor",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Bug",
+    "Type 2": ""
   },
   {
     "Name": "Rabsca",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Bug",
+    "Type 2": "Psychic"
   },
   {
     "Name": "Flittle",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Psychic",
+    "Type 2": ""
   },
   {
     "Name": "Espathra",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Psychic",
+    "Type 2": ""
   },
   {
     "Name": "Tinkatink",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Fairy",
+    "Type 2": "Steel"
   },
   {
     "Name": "Tinkatuff",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Fairy",
+    "Type 2": "Steel"
   },
   {
     "Name": "Tinkaton",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Fairy",
+    "Type 2": "Steel"
   },
   {
     "Name": "Wiglett",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Water",
+    "Type 2": ""
   },
   {
     "Name": "Wugtrio",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Water",
+    "Type 2": ""
   },
   {
     "Name": "Bombirdier",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Flying",
+    "Type 2": "Dark"
   },
   {
     "Name": "Finizen",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Water",
+    "Type 2": ""
   },
   {
     "Name": "Palafin",
-    "Form": "Zero Form"
+    "Form": "Zero Form",
+    "Type 1": "Water",
+    "Type 2": ""
   },
   {
     "Name": "Palafin",
-    "Form": "Hero Form"
+    "Form": "Hero Form",
+    "Type 1": "Water",
+    "Type 2": ""
   },
   {
     "Name": "Varoom",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Steel",
+    "Type 2": "Poison"
   },
   {
     "Name": "Revavroom",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Steel",
+    "Type 2": "Poison"
   },
   {
     "Name": "Cyclizar",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Dragon",
+    "Type 2": "Normal"
   },
   {
     "Name": "Orthworm",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Steel",
+    "Type 2": ""
   },
   {
     "Name": "Glimmet",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Rock",
+    "Type 2": "Poison"
   },
   {
     "Name": "Glimmora",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Rock",
+    "Type 2": "Poison"
   },
   {
     "Name": "Greavard",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Ghost",
+    "Type 2": ""
   },
   {
     "Name": "Houndstone",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Ghost",
+    "Type 2": ""
   },
   {
     "Name": "Flamigo",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Flying",
+    "Type 2": "Fighting"
   },
   {
     "Name": "Cetoddle",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Ice",
+    "Type 2": ""
   },
   {
     "Name": "Cetitan",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Ice",
+    "Type 2": ""
   },
   {
     "Name": "Veluza",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Water",
+    "Type 2": "Psychic"
   },
   {
     "Name": "Dondozo",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Water",
+    "Type 2": ""
   },
   {
     "Name": "Tatsugiri",
-    "Form": "Curly Form"
+    "Form": "Curly Form",
+    "Type 1": "Dragon",
+    "Type 2": "Water"
   },
   {
     "Name": "Tatsugiri",
-    "Form": "Droopy Form"
+    "Form": "Droopy Form",
+    "Type 1": "Dragon",
+    "Type 2": "Water"
   },
   {
     "Name": "Tatsugiri",
-    "Form": "Stretchy Form"
+    "Form": "Stretchy Form",
+    "Type 1": "Dragon",
+    "Type 2": "Water"
   },
   {
     "Name": "Annihilape",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Fighting",
+    "Type 2": "Ghost"
   },
   {
     "Name": "Clodsire",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Poison",
+    "Type 2": "Ground"
   },
   {
     "Name": "Farigiraf",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Normal",
+    "Type 2": "Psychic"
   },
   {
     "Name": "Dudunsparce",
-    "Form": "Two-Segment Form"
+    "Form": "Two-Segment Form",
+    "Type 1": "Normal",
+    "Type 2": ""
   },
   {
     "Name": "Dudunsparce",
-    "Form": "Three-Segment Form"
+    "Form": "Three-Segment Form",
+    "Type 1": "Normal",
+    "Type 2": ""
   },
   {
     "Name": "Kingambit",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Dark",
+    "Type 2": "Steel"
   },
   {
     "Name": "Great Tusk",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Ground",
+    "Type 2": "Fighting"
   },
   {
     "Name": "Scream Tail",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Fairy",
+    "Type 2": "Psychic"
   },
   {
     "Name": "Brute Bonnet",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Grass",
+    "Type 2": "Dark"
   },
   {
     "Name": "Flutter Mane",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Ghost",
+    "Type 2": "Fairy"
   },
   {
     "Name": "Slither Wing",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Bug",
+    "Type 2": "Fighting"
   },
   {
     "Name": "Sandy Shocks",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Electric",
+    "Type 2": "Ground"
   },
   {
     "Name": "Iron Treads",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Ground",
+    "Type 2": "Steel"
   },
   {
     "Name": "Iron Bundle",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Ice",
+    "Type 2": "Water"
   },
   {
     "Name": "Iron Hands",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Fighting",
+    "Type 2": "Electric"
   },
   {
     "Name": "Iron Jugulis",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Dark",
+    "Type 2": "Flying"
   },
   {
     "Name": "Iron Moth",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Fire",
+    "Type 2": "Poison"
   },
   {
     "Name": "Iron Thorns",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Rock",
+    "Type 2": "Electric"
   },
   {
     "Name": "Frigibax",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Dragon",
+    "Type 2": "Ice"
   },
   {
     "Name": "Arctibax",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Dragon",
+    "Type 2": "Ice"
   },
   {
     "Name": "Baxcalibur",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Dragon",
+    "Type 2": "Ice"
   },
   {
     "Name": "Gimmighoul",
-    "Form": "Chest Form"
+    "Form": "Chest Form",
+    "Type 1": "Ghost",
+    "Type 2": ""
   },
   {
     "Name": "Gimmighoul",
-    "Form": "Roaming Form"
+    "Form": "Roaming Form",
+    "Type 1": "Ghost",
+    "Type 2": ""
   },
   {
     "Name": "Gholdengo",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Steel",
+    "Type 2": "Ghost"
   },
   {
     "Name": "Wo-Chien",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Dark",
+    "Type 2": "Grass"
   },
   {
     "Name": "Chien-Pao",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Dark",
+    "Type 2": "Ice"
   },
   {
     "Name": "Ting-Lu",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Dark",
+    "Type 2": "Ground"
   },
   {
     "Name": "Chi-Yu",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Dark",
+    "Type 2": "Fire"
   },
   {
     "Name": "Roaring Moon",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Dragon",
+    "Type 2": "Dark"
   },
   {
     "Name": "Iron Valiant",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Fairy",
+    "Type 2": "Fighting"
   },
   {
     "Name": "Koraidon",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Fighting",
+    "Type 2": "Dragon"
   },
   {
     "Name": "Miraidon",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Electric",
+    "Type 2": "Dragon"
   },
   {
     "Name": "Walking Wake",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Water",
+    "Type 2": "Dragon"
   },
   {
     "Name": "Iron Leaves",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Grass",
+    "Type 2": "Psychic"
   },
   {
     "Name": "Dipplin",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Grass",
+    "Type 2": "Dragon"
   },
   {
     "Name": "Poltchageist",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Grass",
+    "Type 2": "Ghost"
   },
   {
     "Name": "Sinistcha",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Grass",
+    "Type 2": "Ghost"
   },
   {
     "Name": "Okidogi",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Poison",
+    "Type 2": "Fighting"
   },
   {
     "Name": "Munkidori",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Poison",
+    "Type 2": "Psychic"
   },
   {
     "Name": "Fezandipiti",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Poison",
+    "Type 2": "Fairy"
   },
   {
     "Name": "Ogerpon",
-    "Form": "Teal Mask"
+    "Form": "Teal Mask",
+    "Type 1": "Grass",
+    "Type 2": ""
   },
   {
     "Name": "Ogerpon",
-    "Form": "Wellspring Mask"
+    "Form": "Wellspring Mask",
+    "Type 1": "Grass",
+    "Type 2": "Water"
   },
   {
     "Name": "Ogerpon",
-    "Form": "Hearthflame Mask"
+    "Form": "Hearthflame Mask",
+    "Type 1": "Grass",
+    "Type 2": "Fire"
   },
   {
     "Name": "Ogerpon",
-    "Form": "Cornerstone Mask"
+    "Form": "Cornerstone Mask",
+    "Type 1": "Grass",
+    "Type 2": "Rock"
   },
   {
     "Name": "Archaludon",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Steel",
+    "Type 2": "Dragon"
   },
   {
     "Name": "Hydrapple",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Grass",
+    "Type 2": "Dragon"
   },
   {
     "Name": "Gouging Fire",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Fire",
+    "Type 2": "Dragon"
   },
   {
     "Name": "Raging Bolt",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Electric",
+    "Type 2": "Dragon"
   },
   {
     "Name": "Iron Boulder",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Rock",
+    "Type 2": "Psychic"
   },
   {
     "Name": "Iron Crown",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Steel",
+    "Type 2": "Psychic"
   },
   {
     "Name": "Terapagos",
-    "Form": "Normal Form"
+    "Form": "Normal Form",
+    "Type 1": "Normal",
+    "Type 2": ""
   },
   {
     "Name": "Terapagos",
-    "Form": "Terastal Form"
+    "Form": "Terastal Form",
+    "Type 1": "Normal",
+    "Type 2": ""
   },
   {
     "Name": "Terapagos",
-    "Form": "Stellar Form"
+    "Form": "Stellar Form",
+    "Type 1": "Normal",
+    "Type 2": ""
   },
   {
     "Name": "Pecharunt",
-    "Form": ""
+    "Form": "",
+    "Type 1": "Poison",
+    "Type 2": "Ghost"
   }
 ]
