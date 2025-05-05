@@ -1,12 +1,12 @@
 const CACHE_NAME = 'pokemon-info-v1';
 const ASSETS_TO_CACHE = [
-  '/',
-  '/index.html',
-  '/style.css',
-  '/app.js',
-  '/manifest.json',
-  '/icons/icon-192x192.png',
-  '/icons/icon-512x512.png',
+  '/pokemon-pwa/',
+  '/pokemon-pwa/index.html',
+  '/pokemon-pwa/style.css',
+  '/pokemon-pwa/app.js',
+  '/pokemon-pwa/manifest.json',
+  '/pokemon-pwa/icons/icon-192x192.png',
+  '/pokemon-pwa/icons/icon-512x512.png',
   'https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css'
 ];
 
@@ -63,11 +63,9 @@ async function networkFirst(request) {
   try {
     const networkResponse = await fetch(request);
     const responseClone = networkResponse.clone();
-    
     caches.open('pokemon-data').then(cache => {
       cache.put(request, responseClone);
     });
-    
     return networkResponse;
   } catch (error) {
     const cachedResponse = await caches.match(request);
@@ -76,4 +74,4 @@ async function networkFirst(request) {
       headers: { 'Content-Type': 'text/plain' }
     });
   }
-} 
+}
