@@ -159,7 +159,7 @@ function displayPokemonByType() {
     
     // Create type header
     const typeHeader = document.createElement('div');
-    typeHeader.classList.add('mb-4', 'pb-2', 'border-b', 'border-gray-200');
+    typeHeader.classList.add('mb-4', 'pb-2', 'border-b', 'border-gray-200', 'text-white');
     
     const typeTitle = document.createElement('h3');
     typeTitle.classList.add('text-lg', 'font-bold', 'capitalize', 'flex', 'items-center');
@@ -190,7 +190,7 @@ function displayPokemonByType() {
       });
       
       const nameElement = document.createElement('span');
-      nameElement.classList.add('capitalize', 'ml-2', 'flex-grow');
+      nameElement.classList.add('capitalize', 'ml-2', 'flex-grow', 'text-white');
       nameElement.textContent = pokemon.Name;
       
       pokemonItem.appendChild(nameElement);
@@ -198,7 +198,7 @@ function displayPokemonByType() {
 
       if (pokemon.Form) {
         const formElement = document.createElement('span');
-        formElement.classList.add('text-xs', 'text-gray-500', 'italic', 'ml-2');
+        formElement.classList.add('text-xs', 'text-white', 'italic', 'ml-2');
         formElement.textContent = pokemon.Form;
         pokemonItem.appendChild(formElement);
       }
